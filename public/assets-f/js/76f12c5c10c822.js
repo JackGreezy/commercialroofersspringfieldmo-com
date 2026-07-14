@@ -1,0 +1,9 @@
+/**
+ * lc-mouseDrag.js - Vanilla javascript (ES6) function enabling drag scrolling on desktop
+ * Version: v1.1.1
+ * Author: Luca Montanari (LCweb)
+ * Website: https://lcweb.it
+ * Licensed under the MIT license
+ */
+
+!function(){"use strict";if("function"==typeof window.lc_mouseDrag)return!0;window.lc_mouseDrag=function(e,t=.3,n=!1,r=!1){if(!e)return console.error("You must provide a valid selector or DOM object as first argument");var o;(o=e,"string"!=typeof o?o instanceof Element?[o]:Object.values(o):((o.match(/(#[0-9][^\s:,]*)/g)||[]).forEach(function(e){o=o.replace(e,'[id="'+e.replace("#","")+'"]')}),document.querySelectorAll(o))).forEach(e=>{if(!1===window.matchMedia("(pointer: fine)").matches)return document.body.classList.add("lc_mousedrag_is_touch"),!0;!function(e){let o=!n,l=!r,i=!1,c=null,s=0,a=0,u=0,d=0,p=null,f=null;e.addEventListener("pointerdown",t=>{"mouse"===t.pointerType&&0===t.button&&(t.preventDefault(),i=!0,c=t.pointerId,p=t.target,u=e.scrollTop,d=e.scrollLeft,s=t.clientY,a=t.clientX,e.setPointerCapture(c))}),e.addEventListener("pointermove",t=>{if(!i||t.pointerId!==c)return;f&&f.pause();let n={behavior:"auto"};l&&(n.top=u+(s-t.clientY)),o&&(n.left=d+(a-t.clientX)),e.scroll(n)});const v=n=>{if(!i||n.pointerId!==c)return;i=!1,e.releasePointerCapture(c),c=null;const r=Math.abs(n.clientX-a),v=Math.abs(n.clientY-s);if(Math.sqrt(r*r+v*v)<5&&p){const e=new MouseEvent("click",{bubbles:!0,cancelable:!0,view:window,clientX:n.clientX,clientY:n.clientY,screenX:n.screenX,screenY:n.screenY,button:0});return p.dispatchEvent(e),void(p=null)}if(p=null,!t)return;let m=e.scrollTop,b=m+-1*(u-m)*t,h=e.scrollLeft,w=h+-1*(d-h)*t,E={behavior:"smooth"};l&&(E.top=b),o&&(E.left=w),f=e.scroll(E)};e.addEventListener("pointerup",v),e.addEventListener("pointercancel",v)}(e)})}}();

@@ -1,0 +1,6 @@
+{
+  "services": ["commercial-roof-inspection", "commercial-roof-leak-repair", "commercial-roof-tear-off-replacement", "commercial-reroofing", "preventive-maintenance-programs", "storm-damage-roof-repair", "roof-recover-overlay", "silicone-roof-coatings", "tpo-single-ply-roofing", "pvc-roofing", "epdm-commercial-roofing", "modified-bitumen-roofing", "standing-seam-metal-roofing", "metal-r-panel-roofing", "built-up-roofing", "roof-drains-scuppers", "edge-metal-coping-gutters", "emergency-tarp-dry-in", "insurance-documentation-support", "acrylic-roof-coatings"],
+  "roof-systems": ["tpo-80-mil", "tpo-60-mil", "pvc-roof-systems", "epdm-white", "epdm-black", "modified-bitumen-sbs", "silicone-roof-coating", "spray-polyurethane-foam"],
+  "industries": ["property-management-firms", "commercial-real-estate-reits", "healthcare-systems", "education-facilities", "logistics-3pl", "food-processing-cold-storage", "general-contractors", "insurance-restoration"],
+  "project-types": ["distribution-center-roofing", "warehouse-roofing", "manufacturing-plant-roofing", "hospital-surgery-center-roofing", "medical-office-building-roofing", "higher-education-roofing", "k12-school-roofing", "big-box-retail-roofing", "multi-tenant-retail-strip-roofing", "grocery-store-roofing", "hotel-hospitality-roofing", "self-storage-facility-roofing"]
+}

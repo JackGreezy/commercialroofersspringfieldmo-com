@@ -1,0 +1,361 @@
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('/assets-f/fonts/704aec7aba8b8a.ttf'), url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXjeu.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('/assets-f/fonts/704aec7aba8b8a.ttf'), url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Lato Bold'), local('/assets-f/fonts/523fc5388470f7.ttf'), url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGR_p.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Lato Bold'), local('/assets-f/fonts/523fc5388470f7.ttf'), url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+.lever  {
+    padding: 0 15%;
+}
+
+.lever-group {
+text-align:center;
+}
+
+.lever.empty-response {
+    padding-bottom: 100px;
+}
+
+.lever .lever-group-title {
+    font: normal 700 14px/1.4 Lato;
+    font-family: Lato, sans-serif;
+    color: #808080;
+    margin: 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.lever-horizontal-line {
+    margin: 20px auto 20px 0;
+    width: 80px;
+    height: 1px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e2e2;
+}
+
+.lever .lever-categories {
+    position: relative;
+    display: block;
+    list-style: none;
+    padding: 0;
+    margin: 0 !important;
+}
+
+.lever .lever-categories li {
+    position: relative;
+    display: inline-block;
+    color: #393939;
+    font-family: "effra", sans-serif;
+	font-size: .9em;
+	line-height: 1em;
+    margin-right: 15px;
+        border-right: solid 2px #ffd200;
+    padding-right: 18px;
+}
+
+.lever .lever-job {
+    position: relative;
+    margin-bottom: 1em;
+    width: 80%;
+    margin-bottom:2em;
+    display: inline-block;
+    vertical-align: top;
+	border: 2px solid #39393970 !important;
+	margin-right: 4px;
+	margin-left: 4px;
+	border-radius: 20px;
+padding: 17px 15px 10px 25px;
+text-align:left;
+}
+
+.lever .lever-job:focus,
+.lever .lever-job:hover {
+background: #83797615;
+	border: 2px solid #83797615 !important;
+}
+
+.lever-job .lever-job-info {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 10px
+}
+
+.lever .lever-job-title {
+    margin: 0;
+    font-family: "Open Sans", Arial, Tahoma, sans-serif;
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: 700;
+	letter-spacing: 0px;
+    color: #A41E34;
+    text-transform: none;
+    letter-spacing: 0;
+	padding-top: 5px;
+	display:inline-block;
+    width: 100%;
+    height: 80px;
+}
+
+.lever .lever-job-title a {
+    text-decoration: none;
+    color: #393939;
+    font-size: 3.2em;
+    font-weight: 600;
+    font-family: "alternate-gothic-condensed-a", Sans-serif;
+    margin-bottom: 10px;
+    display: block;
+    line-height:1.1em;
+    width: 100%;
+    height: 150px;
+    z-index: 2222;
+    position: relative;
+    margin-top: -30px;
+    padding-top: 30px;
+}
+
+.lever .lever-job-title a:hover {
+    /*color: #ffd200;*/
+    color:#9E2339;
+}
+
+.lever-job .lever-job-action {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    text-align: right;
+	position: absolute;
+	right:    0;
+	bottom:   0;
+	visibility:hidden;
+}
+
+.lever-job .lever-job-action a {
+    color: white !important;
+}
+
+.lever .lever-job-apply {
+    background: #beb6b0;
+    border-color: #dd1d5e;
+    color: #ffffff;
+    font: normal 700 14px/1.4 Lato;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    height: auto;
+	width: 100%;
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    text-decoration: none !important;
+    padding: 5px 25px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.lever .lever-job-apply:hover,
+.lever .lever-job-apply:focus {
+    background-color: #a31545;
+    text-decoration: none;
+}
+
+.lever-filters {
+    line-height: 40px;
+    max-width: 100%;
+	background: #ffffff;
+	padding-left: 40px;
+	padding-top: 50px;
+	padding-bottom: 80px;
+	text-align:center;
+}
+
+/* THIS IS IN CASE THEY WANT TO SHOW ANYTHING AFTER THE FILTERS BUT IT'S NOT DYNAMIC, JUST STATIC TEXT 
+.lever-filters:after {
+    content:'The message goes here';
+    display:inline-block;
+    width:100%;
+    text-align:center;
+    padding: 5% 2% 2% 2%;
+    font-family: "alternate-gothic-condensed-a", Sans-serif;
+    font-size: 2em;
+} 
+*/
+
+.lever-filters .filter-by-label {
+    color: #393939;
+	font-family: 'adobe garamond', 'garamond', 'serif';
+	font-weight: 700;
+	font-size:	24px;
+    margin-right: 20px;
+	margin-bottom: 10px;
+	visibility:hidden;
+}
+.filter-by-label:after {
+	font-family: FontAwesome;
+    content: "\f002";
+	margin-left: 5px;
+	font-size:	18px;
+	margin-bottom: 10px;
+}
+.lever-filters .filter {
+    display: inline-block;
+    margin-right: 20px;
+    outline: none;
+    position: relative;
+    background: #FFFFFF;
+    color: #988f89;
+    border: 1px solid #39393980;
+    line-height: 1;
+    vertical-align: bottom;
+    border-radius: 13px;
+width: 260px;
+}
+
+.lever-filters .filter .filter-type:hover {
+background: #988f89;
+    color: #ffffff;
+    cursor: pointer;
+        border-radius: 13px;
+}
+
+.lever-filters .filter-type {
+    text-transform: capitalize;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    -o-text-overflow:clip;
+    text-overflow:clip;
+font-family: "alternate-gothic-condensed-a", Sans-serif;
+    color: #393939;
+    padding: 15px 30px 15px 20px;
+    font-size: 1.4em;
+    text-align:left;
+}
+
+.lever-filters .filter-type:after {
+	font-family: FontAwesome;
+    content: "\f107";
+    position: absolute;
+    right: 15px;
+    top: 30%;
+}
+
+.lever-filters .filter-values {
+    display: none;
+    position: absolute;
+    background: #fff;
+    color: #bbb5b1;
+    font: normal 500 16px/1.4 "Fjalla One";
+    box-shadow: 1px 1px 0 1px #00000036;
+    text-align: left;
+    white-space: nowrap;
+    padding: 8px 0;
+    border-radius: 3px;
+    top: 110%;
+	width: 300px;
+    left: -1px;
+    border: 1px solid #474747;
+    overflow-y: auto;
+    z-index: 1;
+    border-radius: 13px;
+}
+
+.lever-filters .filter-values a {
+    display: block;
+    padding: 4px 32px;
+    position: relative;
+    text-decoration: none;
+    color: #393939;
+    font-family: 'alternate-gothic-condensed-a';
+    font-weight: 600;
+    font-size: 1.3em;
+}
+
+.lever-filters .filter-values a:hover,
+.lever-filters .filter-values a:focus,
+.lever-filters .filter-values a:active {
+    background: #FFFFF !important;
+    color: #776a63;
+    cursor: pointer;
+}
+
+.lever-filters .filter-values.active {
+    display: block;
+}
+
+.lever-filters .filter-value.active {
+    background: #bbb5b170;
+}
+
+@media only screen and (max-device-width : 800px) {
+	.lever .lever-job {
+    position: relative;
+    margin-bottom: 1em;
+	width: 100%;
+    display: inline-block;
+    vertical-align: top;
+	border: 2px solid #39393970 !important;
+	margin-right: 4px;
+	margin-left: 4px;
+	}
+	.lever-filters .filter {
+    display: inline-block;
+    margin-right: 20px;
+    width: 90%;
+    outline: none;
+    position: relative;
+    background: #FFFFFF;
+    color: #988f89;
+    border: 1px solid #393939;
+    line-height: 1;
+    vertical-align: bottom;
+}
+.lever-filters {
+    line-height: 40px;
+    max-width: 100%;
+    background: #fff;
+    padding-left: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.lever  {
+    padding: 2%!important;
+    margin:0;
+}
+
+}

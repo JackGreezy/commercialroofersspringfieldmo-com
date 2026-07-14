@@ -1,0 +1,85 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * adobe-garamond-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9b00c5
+ *   - http://typekit.com/eulas/00000000000000003b9b00c6
+ *   - http://typekit.com/eulas/00000000000000003b9b00c1
+ * alternate-gothic-condensed-a:
+ *   - http://typekit.com/eulas/00000000000000007735c716
+ *   - http://typekit.com/eulas/00000000000000007735c721
+ *   - http://typekit.com/eulas/00000000000000007735c725
+ * effra:
+ *   - http://typekit.com/eulas/00000000000000003b9b489b
+ *   - http://typekit.com/eulas/00000000000000003b9b489a
+ *   - http://typekit.com/eulas/00000000000000003b9b489e
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-12-10 17:57:18 UTC"}*/
+
+@import url("/assets-f/css/d29c1a3ccf53f8.css");
+
+@font-face {
+font-family:"adobe-garamond-pro";
+src:url("https://use.typekit.net/af/af619f/00000000000000003b9b00c5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/af619f/00000000000000003b9b00c5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/af619f/00000000000000003b9b00c5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-garamond-pro";
+src:url("/assets-f/fonts/ba4194117d6f34.woff2") format("woff2"),url("https://use.typekit.net/af/6c275f/00000000000000003b9b00c6/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/6c275f/00000000000000003b9b00c6/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-garamond-pro";
+src:url("/assets-f/fonts/333eb34fa71b21.woff2") format("woff2"),url("https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("/assets-f/fonts/75fc6f264f0c8f.woff2") format("woff2"),url("https://use.typekit.net/af/2dce9d/00000000000000003b9b489b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/2dce9d/00000000000000003b9b489b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("/assets-f/fonts/278115c4885f75.woff2") format("woff2"),url("https://use.typekit.net/af/199ff2/00000000000000003b9b489a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/199ff2/00000000000000003b9b489a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra";
+src:url("/assets-f/fonts/ea611e6c880725.woff2") format("woff2"),url("https://use.typekit.net/af/23ddd7/00000000000000003b9b489e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/23ddd7/00000000000000003b9b489e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alternate-gothic-condensed-a";
+src:url("/assets-f/fonts/d87ec7a694de6c.woff2") format("woff2"),url("https://use.typekit.net/af/be63d7/00000000000000007735c716/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/be63d7/00000000000000007735c716/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alternate-gothic-condensed-a";
+src:url("/assets-f/fonts/18d84bf22217e7.woff2") format("woff2"),url("https://use.typekit.net/af/60cc13/00000000000000007735c721/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/60cc13/00000000000000007735c721/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alternate-gothic-condensed-a";
+src:url("/assets-f/fonts/09c6d49d3bb098.woff2") format("woff2"),url("https://use.typekit.net/af/7a099a/00000000000000007735c725/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/7a099a/00000000000000007735c725/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-adobe-garamond-pro { font-family: "adobe-garamond-pro",serif; }
+.tk-effra { font-family: "effra",sans-serif; }
+.tk-trade-gothic-next-compressed { font-family: "trade-gothic-next-compressed",sans-serif; }
+.tk-trade-gothic-next-condensed { font-family: "trade-gothic-next-condensed",sans-serif; }
+.tk-alternate-gothic-atf { font-family: "alternate-gothic-atf",sans-serif; }
+.tk-alternate-gothic-condensed-a { font-family: "alternate-gothic-condensed-a",sans-serif; }
