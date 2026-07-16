@@ -31,6 +31,22 @@ PY
 python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
 python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
+python3 - "$PROJ" <<'PY'
+from pathlib import Path
+import sys
+
+project = Path(sys.argv[1])
+old = "Commercial Roofers of Springfield" + ", MO"
+new = "Commercial Roofers of Springfield"
+for path in project.rglob("*"):
+    if not path.is_file() or ".git" in path.parts or "node_modules" in path.parts:
+        continue
+    if path.suffix.lower() not in {".html", ".txt", ".js", ".json", ".xml"}:
+        continue
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    if old in text:
+        path.write_text(text.replace(old, new), encoding="utf-8")
+PY
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 echo "BUILD COMPLETE — gates green. Human QA: open $PROJ/qa-out/CONTACT-SHEET.html"

@@ -1,6 +1,6 @@
 {
   "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/commercial-roofing/commercialroofersspringfieldmo-com",
-  "businessName": "Commercial Roofers of Springfield, MO",
+  "businessName": "Commercial Roofers of Springfield",
   "city": "Springfield",
   "region": "Springfield, Greene County, and surrounding Ozarks communities",
   "phone": "555-555-6137",
@@ -8,7 +8,7 @@
   "address": "300 S Jefferson Ave, Suite 900, Springfield, MO 65806",
   "domain": "commercialroofersspringfieldmo.com",
   "wordmark_l1": "Commercial Roofers",
-  "wordmark_l2": "of Springfield, MO",
+  "wordmark_l2": "of Springfield",
   "hero_image": "/ours/locations/commercial-roofers-springfield-mo-06.webp",
   "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
   "nav": [["Services", "/services"], ["Roof Systems", "/roof-systems"], ["Industries", "/industries"], ["Project Types", "/project-types"], ["Service Areas", "/locations"], ["Manufacturers", "/manufacturers"], ["Contact", "/contact"]],

@@ -1,4 +1,4 @@
-const contactConfig = {"name": "Commercial Roofers of Springfield, MO", "domain": "commercialroofersspringfieldmo.com", "address": "300 S Jefferson Ave, Suite 900, Springfield, MO 65806", "phone": "555-555-6137", "phoneTel": "5555556137", "email": "sales@commercialroofersspringfieldmo.com", "city": "Springfield", "state": ""};
+const contactConfig = {"name": "Commercial Roofers of Springfield", "domain": "commercialroofersspringfieldmo.com", "address": "300 S Jefferson Ave, Suite 900, Springfield, MO 65806", "phone": "555-555-6137", "phoneTel": "5555556137", "email": "sales@commercialroofersspringfieldmo.com", "city": "Springfield", "state": ""};
 
 const DEFAULT_TEMPLATE_ID = "d-15217ab1c55347b5847c2421b1a82847";
 const buckets = new Map();
