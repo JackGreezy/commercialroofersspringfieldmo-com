@@ -572,8 +572,8 @@ jQuery(document).ready(function($){
 	// yes no button		
 		$('body').on('click','.ajde_yn_btn ', function(event){
 
-			// stop this code from working on wp-admin
-			if($('body').hasClass('wp-admin')) return false; 
+			// stop this code from working on site-admin
+			if($('body').hasClass('site-admin')) return false; 
 			
 			var obj = $(this);
 			var afterstatement = obj.attr('afterstatement');

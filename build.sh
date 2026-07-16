@@ -4,9 +4,9 @@ set -euo pipefail
 ROOT=/Users/jackgreenberg/Desktop/rank-and-rent
 S=$ROOT/David/clones/scripts
 PROJ=$ROOT/commercial-roofing/commercialroofersspringfieldmo-com
-REFHOST=spawglass-com
+REFHOST=ppchh-com
 VOICE=$S/voice/commercial-roofing.json
-PAGES="home=https://www.spawglass.com/,about=https://www.spawglass.com/about-us/,contact=https://www.spawglass.com/contact/,index=https://www.spawglass.com/our-projects/,slug=https://www.spawglass.com/spring-fire-department-training-center/"
+PAGES="home=https://www.ppchh.com/,about=https://www.ppchh.com/about-us/,contact=https://www.ppchh.com/contact/,index=https://www.ppchh.com/our-projects/,slug=https://www.ppchh.com/spring-fire-department-training-center/"
 CFG=$PROJ/home.config.json
 MAP=$S/relabel-map-$REFHOST.json
 CAP=$ROOT/David/clones/_captures/$REFHOST-v1
@@ -14,7 +14,7 @@ CAP=$ROOT/David/clones/_captures/$REFHOST-v1
 [ -f "$CFG" ] || { echo "MISSING $CFG"; exit 1; }
 [ -f "$MAP" ] || { echo "MISSING $MAP"; exit 1; }
 if [ ! -f "$CAP/public/home.html.ref" ]; then
-  node "$S/faithful-home.mjs" --no-scripts --src "https://www.spawglass.com/" --pages "$PAGES" --dir "$CAP"
+  node "$S/faithful-home.mjs" --no-scripts --src "https://www.ppchh.com/" --pages "$PAGES" --dir "$CAP"
 fi
 mkdir -p "$PROJ/public"
 cp "$CAP"/public/*.html.ref "$PROJ/public/" 2>/dev/null || true

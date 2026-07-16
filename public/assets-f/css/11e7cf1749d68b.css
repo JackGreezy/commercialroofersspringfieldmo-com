@@ -19,17 +19,17 @@
 .sb-elem-icon.sb-elem-reviews{
 	content: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M20 2H4C2.9 2 2 2.9 2 4V16C2 17.1 2.9 18 4 18H8L12 22L16 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2Z' stroke='%23576067' stroke-width='1.25' stroke-linejoin='round'/%3E%3Cpath d='M12 5L13.5 9H17.5L14.25 11.5L15.5 15.5L12 13L8.5 15.5L9.75 11.5L6.5 9H10.5L12 5Z' stroke='%23576067' stroke-width='1' fill='none'/%3E%3C/svg%3E%0A");
 }
-#elementor-panel-category-smashballoon .icon{
+#ppchhel-panel-category-smashballoon .icon{
 	height: 44px;
 }
 
-#elementor-panel-category-smashballoon .elementor-element:before{
+#ppchhel-panel-category-smashballoon .ppchhel-element:before{
 	content:  url("data:image/svg+xml,%3Csvg width='13' height='17' viewBox='0 0 13 17' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M12.1181 7.76035C12.1181 3.75058 9.48981 0.5 6.24644 0.5C3.00307 0.5 0.373535 3.75058 0.373535 7.76035C0.373535 11.6043 2.78204 14.7408 5.83201 15.0039L5.50767 16.0309L7.54138 15.858L6.82784 14.9859C9.79733 14.6255 12.1181 11.5287 12.1181 7.76035Z' fill='%23636D75'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M7.64698 3.05249L7.92956 5.96825L10.8576 6.05236L8.7395 8.02172L10.4124 10.4413L7.59414 9.91157L6.73975 12.7299L5.44249 10.2061L2.82313 11.4063L3.83076 8.70076L1.27612 7.41224L4.01079 6.53275L3.25618 3.83878L5.84337 5.31376L7.64698 3.05249Z' fill='white'/%3E%3C/svg%3E%0A");
 	position: absolute;
 	right: 7px;
 	top: 7px;
 }
-#elementor-panel-category-smashballoon .elementor-element:hover:before{
+#ppchhel-panel-category-smashballoon .ppchhel-element:hover:before{
 	content:  url("data:image/svg+xml,%3Csvg width='13' height='17' viewBox='0 0 13 17' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M12.1181 7.76035C12.1181 3.75058 9.48981 0.5 6.24644 0.5C3.00307 0.5 0.373535 3.75058 0.373535 7.76035C0.373535 11.6043 2.78204 14.7408 5.83201 15.0039L5.50767 16.0309L7.54138 15.858L6.82784 14.9859C9.79733 14.6255 12.1181 11.5287 12.1181 7.76035Z' fill='%23FE544F'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M7.64698 3.05249L7.92956 5.96825L10.8576 6.05236L8.7395 8.02172L10.4124 10.4413L7.59414 9.91157L6.73975 12.7299L5.44249 10.2061L2.82313 11.4063L3.83076 8.70076L1.27612 7.41224L4.01079 6.53275L3.25618 3.83878L5.84337 5.31376L7.64698 3.05249Z' fill='white'/%3E%3C/svg%3E%0A");
 }
 
