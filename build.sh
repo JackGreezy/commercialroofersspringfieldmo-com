@@ -4,9 +4,9 @@ set -euo pipefail
 ROOT=/Users/jackgreenberg/Desktop/rank-and-rent
 S=$ROOT/David/clones/scripts
 PROJ=$ROOT/commercial-roofing/commercialroofersspringfieldmo-com
-REFHOST=ppchh-com
+REFHOST=spawglass-com
 VOICE=$S/voice/commercial-roofing.json
-PAGES="home=https://www.ppchh.com/,about=https://www.ppchh.com/about-us/,contact=https://www.ppchh.com/contact/,index=https://www.ppchh.com/our-projects/,slug=https://www.ppchh.com/spring-fire-department-training-center/"
+PAGES="home=https://spawglass.com/,about=https://spawglass.com/about-us/,contact=https://spawglass.com/contact/,index=https://spawglass.com/our-projects/,slug=https://spawglass.com/spring-fire-department-training-center/"
 CFG=$PROJ/home.config.json
 MAP=$S/relabel-map-$REFHOST.json
 CAP=$ROOT/David/clones/_captures/$REFHOST-v1
@@ -14,7 +14,7 @@ CAP=$ROOT/David/clones/_captures/$REFHOST-v1
 [ -f "$CFG" ] || { echo "MISSING $CFG"; exit 1; }
 [ -f "$MAP" ] || { echo "MISSING $MAP"; exit 1; }
 if [ ! -f "$CAP/public/home.html.ref" ]; then
-  node "$S/faithful-home.mjs" --no-scripts --src "https://www.ppchh.com/" --pages "$PAGES" --dir "$CAP"
+  node "$S/faithful-home.mjs" --no-scripts --src "https://spawglass.com/" --pages "$PAGES" --dir "$CAP"
 fi
 mkdir -p "$PROJ/public"
 cp "$CAP"/public/*.html.ref "$PROJ/public/" 2>/dev/null || true
@@ -30,23 +30,7 @@ if os.path.isdir(src): shutil.copytree(src, dst, dirs_exist_ok=True)
 PY
 python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
-python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
-python3 - "$PROJ" <<'PY'
-from pathlib import Path
-import sys
-
-project = Path(sys.argv[1])
-old = "Commercial Roofers of Springfield" + ", MO"
-new = "Commercial Roofers of Springfield"
-for path in project.rglob("*"):
-    if not path.is_file() or ".git" in path.parts or "node_modules" in path.parts:
-        continue
-    if path.suffix.lower() not in {".html", ".txt", ".js", ".json", ".xml"}:
-        continue
-    text = path.read_text(encoding="utf-8", errors="ignore")
-    if old in text:
-        path.write_text(text.replace(old, new), encoding="utf-8")
-PY
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
+find "$PROJ/public" -maxdepth 1 -type f -name '*.html.ref' -delete
 echo "BUILD COMPLETE — gates green. Human QA: open $PROJ/qa-out/CONTACT-SHEET.html"

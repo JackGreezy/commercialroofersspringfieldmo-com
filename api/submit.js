@@ -1,4 +1,4 @@
-const contactConfig = {"name": "Commercial Roofers of Springfield", "domain": "commercialroofersspringfieldmo.com", "address": "300 S Jefferson Ave, Suite 900, Springfield, MO 65806", "phone": "555-555-6137", "phoneTel": "5555556137", "email": "sales@commercialroofersspringfieldmo.com", "city": "Springfield", "state": ""};
+const contactConfig = {"name": "Commercial Roofers of Springfield, MO", "domain": "commercialroofersspringfieldmo.com", "address": "300 S Jefferson Ave, Suite 900, Springfield, MO 65806", "phone": "555-555-6137", "phoneTel": "5555556137", "email": "sales@commercialroofersspringfieldmo.com", "city": "Springfield", "state": "MO"};
 
 const DEFAULT_TEMPLATE_ID = "d-15217ab1c55347b5847c2421b1a82847";
 const buckets = new Map();
@@ -10,7 +10,7 @@ const emailTheme = {
   headerBg: "#ffffff", headerText: "#1c2426", footerBg: "#f6f8f9", border: "#e3e8ed",
   textDark: "#1c2426", textBody: "#3a4654", textMuted: "#64727f", textFaint: "#9aa6b2",
   fontHeading: "'Lato', Helvetica, Arial, sans-serif", fontBody: "'Lato', Helvetica, Arial, sans-serif",
-  fontImport: "https://fonts.googleapis.com/css2?family=Lato:wght@400;700;800&display=swap", logoUrl: "/images/brand/logo.png"
+  fontImport: "https://fonts.googleapis.com/css2?family=Lato:wght@400;700;800&display=swap", logoUrl: ""
 };
 
 function clean(value) { return String(value || "").trim(); }

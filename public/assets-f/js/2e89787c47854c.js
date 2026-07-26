@@ -1,1 +1,0 @@
-SmoothScroll({frameRate:900,animationTime:900,stepSize:300,pulseAlgorithm:1,pulseScale:4,pulseNormalize:1,accelerationDelta:50,accelerationMax:3,keyboardSupport:1,arrowScroll:50,})
