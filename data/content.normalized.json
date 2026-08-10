@@ -3,9 +3,10 @@
   "name": "Commercial Roofers of Springfield",
   "city": "Springfield",
   "region": "Springfield, Greene County, and surrounding Ozarks communities",
-  "phone": "555-555-6137",
+  "phone": "",
   "email": "sales@commercialroofersspringfieldmo.com",
-  "domain": "commercialroofersspringfieldmo.com"
+  "domain": "commercialroofersspringfieldmo.com",
+  "vertical": ""
  },
  "taxonomies": {
   "locations": {
