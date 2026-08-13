@@ -5,7 +5,6 @@
 qa-out
 **/*.html.ref
 /data
-/scripts
 /industries
 /locations
 /manufacturers
