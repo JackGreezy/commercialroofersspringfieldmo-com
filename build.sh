@@ -34,6 +34,7 @@ python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
 python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
 node "$PROJ/scripts/website-taste-pass.mjs" "$PROJ"
 python3 "$PROJ/scripts/springfield-conversion-pass.py" "$PROJ"
+node "$PROJ/scripts/finalize-lead-controls.mjs" "$PROJ"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 find "$PROJ/public" -maxdepth 1 -type f -name '*.html.ref' -delete
