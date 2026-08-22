@@ -65,6 +65,22 @@
     {
       "source": "/roof-systems/:slug",
       "destination": "/roof-systems/:slug.html"
+    },
+    {
+      "source": "/services/drain-cleaning-repair",
+      "destination": "/services/drain-cleaning-repair.html"
+    },
+    {
+      "source": "/services/drain-cleaning-repair/",
+      "destination": "/services/drain-cleaning-repair.html"
+    },
+    {
+      "source": "/roof-systems/modified-bitumen-systems",
+      "destination": "/roof-systems/modified-bitumen-systems.html"
+    },
+    {
+      "source": "/roof-systems/modified-bitumen-systems/",
+      "destination": "/roof-systems/modified-bitumen-systems.html"
     }
   ],
   "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
