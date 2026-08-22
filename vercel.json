@@ -82,6 +82,5 @@
       "source": "/roof-systems/modified-bitumen-systems/",
       "destination": "/roof-systems/modified-bitumen-systems.html"
     }
-  ],
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
+  ]
 }
