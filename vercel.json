@@ -3,12 +3,12 @@
   "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/service-areas/:slug",
-      "destination": "/service-areas/:slug.html"
-    },
-    {
       "source": "/service-areas",
       "destination": "/locations.html"
+    },
+    {
+      "source": "/service-areas/:slug",
+      "destination": "/service-areas/:slug.html"
     },
     {
       "source": "/about",
