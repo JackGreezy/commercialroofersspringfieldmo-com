@@ -1,0 +1,4983 @@
+{
+  "summary": {
+    "project": "/Users/jackgreenberg/Desktop/rank-and-rent/commercial-roofing/commercialroofersspringfieldmo-com",
+    "routes": 98,
+    "cardGroups": 0,
+    "unevenCardGroups": 0,
+    "clippedText": 0,
+    "carousels": 173,
+    "carouselsMissingControls": 0,
+    "carouselFunctionFailures": 0,
+    "forms": 1,
+    "elPasoFormMatches": 1
+  },
+  "results": [
+    {
+      "route": "/",
+      "load": true,
+      "title": "Commercial Roofing Contractors Springfield, MO | Local Roofers",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/404",
+      "load": true,
+      "title": "Page not found | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/about",
+      "load": true,
+      "title": "About Commercial Roofers of Springfield | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/contact",
+      "load": true,
+      "title": "Let's Talk About Your Commercial Roof | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": {
+        "action": "/api/submit",
+        "method": "post",
+        "asyncHook": true,
+        "fields": [
+          {
+            "name": "_company",
+            "type": "text",
+            "required": false,
+            "visible": false
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "timeline",
+            "type": "select",
+            "required": true,
+            "visible": true
+          },
+          {
+            "name": "notes",
+            "type": "textarea",
+            "required": true,
+            "visible": true
+          }
+        ],
+        "statusRegion": true
+      },
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries",
+      "load": true,
+      "title": "Industries We Serve | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/industries/commercial-real-estate-reits",
+      "load": true,
+      "title": "Commercial Real Estate & REIT Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/education-facilities",
+      "load": true,
+      "title": "School & Campus Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/food-processing-cold-storage",
+      "load": true,
+      "title": "Food Processing & Cold Storage Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/general-contractors",
+      "load": true,
+      "title": "General Contractor Roofing Subcontractor in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/healthcare-systems",
+      "load": true,
+      "title": "Healthcare System Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/insurance-restoration",
+      "load": true,
+      "title": "Insurance Restoration Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/logistics-3pl",
+      "load": true,
+      "title": "Logistics & Distribution Center Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/industries/property-management-firms",
+      "load": true,
+      "title": "Property Management Roofing Partner in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas",
+      "load": true,
+      "title": "Service Areas | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/service-areas/ash-grove",
+      "load": true,
+      "title": "Commercial Roofing in Ash Grove, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/aurora",
+      "load": true,
+      "title": "Commercial Roofing in Aurora, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/battlefield",
+      "load": true,
+      "title": "Commercial Roofing in Battlefield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/billings",
+      "load": true,
+      "title": "Commercial Roofing in Billings, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/bolivar",
+      "load": true,
+      "title": "Commercial Roofing in Bolivar, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/branson",
+      "load": true,
+      "title": "Commercial Roofing in Branson, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/branson-west",
+      "load": true,
+      "title": "Commercial Roofing in Branson West, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/buffalo",
+      "load": true,
+      "title": "Commercial Roofing in Buffalo, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/clever",
+      "load": true,
+      "title": "Commercial Roofing in Clever, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/crane",
+      "load": true,
+      "title": "Commercial Roofing in Crane, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/fair-grove",
+      "load": true,
+      "title": "Commercial Roofing in Fair Grove, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/fordland",
+      "load": true,
+      "title": "Commercial Roofing in Fordland, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/highlandville",
+      "load": true,
+      "title": "Commercial Roofing in Highlandville, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/hollister",
+      "load": true,
+      "title": "Commercial Roofing in Hollister, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/marshfield",
+      "load": true,
+      "title": "Commercial Roofing in Marshfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/monett",
+      "load": true,
+      "title": "Commercial Roofing in Monett, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/mount-vernon",
+      "load": true,
+      "title": "Commercial Roofing in Mount Vernon, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/nixa",
+      "load": true,
+      "title": "Commercial Roofing in Nixa, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/ozark",
+      "load": true,
+      "title": "Commercial Roofing in Ozark, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/pleasant-hope",
+      "load": true,
+      "title": "Commercial Roofing in Pleasant Hope, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/reeds-spring",
+      "load": true,
+      "title": "Commercial Roofing in Reeds Spring, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/republic",
+      "load": true,
+      "title": "Commercial Roofing in Republic, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/rogersville",
+      "load": true,
+      "title": "Commercial Roofing in Rogersville, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/seymour",
+      "load": true,
+      "title": "Commercial Roofing in Seymour, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/sparta",
+      "load": true,
+      "title": "Commercial Roofing in Sparta, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/strafford",
+      "load": true,
+      "title": "Commercial Roofing in Strafford, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/walnut-grove",
+      "load": true,
+      "title": "Commercial Roofing in Walnut Grove, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/service-areas/willard",
+      "load": true,
+      "title": "Commercial Roofing in Willard, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers",
+      "load": true,
+      "title": "Roofing Manufacturers | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/manufacturers/carlisle-syntec",
+      "load": true,
+      "title": "Carlisle SynTec Roofing Systems in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/gaf-commercial",
+      "load": true,
+      "title": "GAF Commercial Roofing Systems in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/holcim-elevate",
+      "load": true,
+      "title": "Elevate (Firestone) Roofing Systems in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/johns-manville",
+      "load": true,
+      "title": "Johns Manville Roofing Systems in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/sika-sarnafil",
+      "load": true,
+      "title": "Sika Sarnafil Roofing Systems in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/manufacturers/versico",
+      "load": true,
+      "title": "Versico Roofing Systems in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/privacy",
+      "load": true,
+      "title": "Privacy Policy | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types",
+      "load": true,
+      "title": "Commercial Project Types | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/project-types/big-box-retail-roofing",
+      "load": true,
+      "title": "Big-Box Retail Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/distribution-center-roofing",
+      "load": true,
+      "title": "Distribution Center Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/grocery-store-roofing",
+      "load": true,
+      "title": "Grocery Store Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/higher-education-roofing",
+      "load": true,
+      "title": "Higher Education Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/hospital-surgery-center-roofing",
+      "load": true,
+      "title": "Hospital and Surgery Center Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/hotel-hospitality-roofing",
+      "load": true,
+      "title": "Hotel and Hospitality Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/k12-school-roofing",
+      "load": true,
+      "title": "K-12 School Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/manufacturing-plant-roofing",
+      "load": true,
+      "title": "Manufacturing Plant Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/medical-office-building-roofing",
+      "load": true,
+      "title": "Medical Office Building Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/multi-tenant-retail-strip-roofing",
+      "load": true,
+      "title": "Multi-Tenant Retail Strip Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/self-storage-facility-roofing",
+      "load": true,
+      "title": "Self-Storage Facility Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/project-types/warehouse-roofing",
+      "load": true,
+      "title": "Warehouse Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems",
+      "load": true,
+      "title": "Roof Systems | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/roof-systems/epdm-black",
+      "load": true,
+      "title": "Black EPDM Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/epdm-white",
+      "load": true,
+      "title": "White EPDM Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/modified-bitumen-sbs",
+      "load": true,
+      "title": "SBS Modified Bitumen Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/pvc-roof-systems",
+      "load": true,
+      "title": "PVC Roofing Systems in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/silicone-roof-coating",
+      "load": true,
+      "title": "Silicone Roof Coatings in Springfield, MO — Roof Systems | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/spray-polyurethane-foam",
+      "load": true,
+      "title": "Spray Polyurethane Foam Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/tpo-60-mil",
+      "load": true,
+      "title": "60-Mil TPO Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/roof-systems/tpo-80-mil",
+      "load": true,
+      "title": "80-Mil TPO Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services",
+      "load": true,
+      "title": "Commercial Roofing Services | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    },
+    {
+      "route": "/services/acrylic-roof-coatings",
+      "load": true,
+      "title": "Acrylic Roof Coatings in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/built-up-roofing",
+      "load": true,
+      "title": "Built-Up Roofing (BUR) in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-reroofing",
+      "load": true,
+      "title": "Commercial Reroofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-roof-inspection",
+      "load": true,
+      "title": "Commercial Roof Inspection in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-roof-insurance-claims",
+      "load": true,
+      "title": "Commercial Roof Insurance Claims in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-roof-leak-repair",
+      "load": true,
+      "title": "Commercial Roof Leak Repair in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/commercial-roof-tear-off-replacement",
+      "load": true,
+      "title": "Commercial Roof Tear-Off & Replacement in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/edge-metal-coping-gutters",
+      "load": true,
+      "title": "Edge Metal, Coping & Gutters in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/emergency-tarp-dry-in",
+      "load": true,
+      "title": "Emergency Tarp & Dry-In Service in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/epdm-commercial-roofing",
+      "load": true,
+      "title": "EPDM Commercial Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/hail-damage-roof-insurance-claims",
+      "load": true,
+      "title": "Hail Damage Roof Insurance Claims in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/insurance-documentation-support",
+      "load": true,
+      "title": "Insurance Documentation Support in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/metal-r-panel-roofing",
+      "load": true,
+      "title": "Metal R-Panel Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/modified-bitumen-roofing",
+      "load": true,
+      "title": "Modified Bitumen Commercial Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/preventive-maintenance-programs",
+      "load": true,
+      "title": "Preventive Maintenance Programs in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/pvc-roofing",
+      "load": true,
+      "title": "PVC Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/roof-drains-scuppers",
+      "load": true,
+      "title": "Roof Drains & Scuppers in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/roof-recover-overlay",
+      "load": true,
+      "title": "Roof Recover and Overlay Systems in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/silicone-roof-coatings",
+      "load": true,
+      "title": "Silicone Roof Coatings in Springfield, MO — Commercial Roofing Services | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/snow-ice-roof-damage-insurance-claims",
+      "load": true,
+      "title": "Snow & Ice Roof Damage Insurance Claims in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/standing-seam-metal-roofing",
+      "load": true,
+      "title": "Standing Seam Metal Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/storm-damage-roof-repair",
+      "load": true,
+      "title": "Storm Damage Roof Repair in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/tpo-single-ply-roofing",
+      "load": true,
+      "title": "TPO Single-Ply Roofing in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/services/wind-storm-damage-roof-insurance-claims",
+      "load": true,
+      "title": "Wind & Storm Damage Roof Insurance Claims in Springfield, MO | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [
+        {
+          "selector": "div.jklrhel-main-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        },
+        {
+          "selector": "div.jklrhel-main-swiper.swiper.jklrhel-thumbnails-swiper.swiper",
+          "slides": 1,
+          "visibleControls": 2,
+          "labels": [
+            "Previous slides",
+            "Next slides"
+          ],
+          "ready": false
+        }
+      ],
+      "main": null,
+      "prose": {
+        "left": 235,
+        "width": 971,
+        "right": 1206
+      },
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": [
+        {
+          "root": "div.jklrhel-main-swiper.swiper",
+          "previous": "rr-carousel-control rr-carousel-prev prev",
+          "next": "rr-carousel-control rr-carousel-next next",
+          "before": "{\"index\":0,\"hasSelected\":false,\"datasetIndex\":\"\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"true\"]}",
+          "afterNext": "{\"index\":1,\"hasSelected\":true,\"datasetIndex\":\"1\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"true\",\"false\",\"true\",\"true\",\"true\"]}",
+          "afterPrevious": "{\"index\":0,\"hasSelected\":true,\"datasetIndex\":\"0\",\"swiper\":\"\",\"transforms\":[\"none\",\"none\"],\"aria\":[\"false\",\"true\",\"true\",\"true\",\"true\"]}",
+          "nextMoved": true,
+          "previousReturned": true
+        }
+      ]
+    },
+    {
+      "route": "/terms",
+      "load": true,
+      "title": "Terms of Service | Commercial Roofers of Springfield",
+      "bodyWidth": 1440,
+      "viewportWidth": 1440,
+      "cardGroups": [],
+      "carousels": [],
+      "main": {
+        "left": 0,
+        "width": 1440
+      },
+      "prose": null,
+      "faq": {
+        "count": 0,
+        "unique": 0
+      },
+      "relatedBlocks": 0,
+      "form": null,
+      "carouselChecks": []
+    }
+  ]
+}

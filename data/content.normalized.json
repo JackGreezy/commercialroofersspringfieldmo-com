@@ -11,7 +11,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "ash-grove",
@@ -27,23 +27,23 @@
      "related": [
       {
        "label": "What a Pleasant Hope Roofing Quote Should Include",
-       "href": "/locations/pleasant-hope"
+       "href": "/service-areas/pleasant-hope"
       },
       {
        "label": "Roofing Contracts Along the Highway 13 Corridor Near Reeds Spring",
-       "href": "/locations/reeds-spring"
+       "href": "/service-areas/reeds-spring"
       },
       {
        "label": "What a Republic Warehouse Roof Quote Should Actually Cover",
-       "href": "/locations/republic"
+       "href": "/service-areas/republic"
       },
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "Commercial Roofing in Seymour's Ag and Amish-Trade Economy",
-       "href": "/locations/seymour"
+       "href": "/service-areas/seymour"
       },
       {
        "label": "What a BUR Tear-Off Bid Doesn't Tell You About Ply Count",
@@ -93,23 +93,23 @@
      "related": [
       {
        "label": "Roofing for the Retail Strip Along the Silver Dollar City Approach",
-       "href": "/locations/branson-west"
+       "href": "/service-areas/branson-west"
       },
       {
        "label": "What a Branson Strip Roof Bid Leaves Out",
-       "href": "/locations/branson"
+       "href": "/service-areas/branson"
       },
       {
        "label": "Commercial Roofing on Buffalo's Courthouse Square and Highway Bypass",
-       "href": "/locations/buffalo"
+       "href": "/service-areas/buffalo"
       },
       {
        "label": "What Roofing Bids in Clever Leave Out",
-       "href": "/locations/clever"
+       "href": "/service-areas/clever"
       },
       {
        "label": "Roofing Scope Gaps on Crane's Commercial Buildings",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "Getting a Damaged Roof Dry Before the Next Round of Weather",
@@ -159,23 +159,23 @@
      "related": [
       {
        "label": "Roofing for Hollister's Lakefront Hospitality and Retail Buildings",
-       "href": "/locations/hollister"
+       "href": "/service-areas/hollister"
       },
       {
        "label": "Marshfield's Two Roof Markets: The Square and the Interchange",
-       "href": "/locations/marshfield"
+       "href": "/service-areas/marshfield"
       },
       {
        "label": "Monett's Manufacturing Roofs Aren't Retail Roofs",
-       "href": "/locations/monett"
+       "href": "/service-areas/monett"
       },
       {
        "label": "Commercial Roofing Decisions Around Mount Vernon's Courthouse Square",
-       "href": "/locations/mount-vernon"
+       "href": "/service-areas/mount-vernon"
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "Why a Maintenance Program Costs Less Than the Repairs It Prevents",
@@ -221,23 +221,23 @@
      "related": [
       {
        "label": "Marshfield's Two Roof Markets: The Square and the Interchange",
-       "href": "/locations/marshfield"
+       "href": "/service-areas/marshfield"
       },
       {
        "label": "Monett's Manufacturing Roofs Aren't Retail Roofs",
-       "href": "/locations/monett"
+       "href": "/service-areas/monett"
       },
       {
        "label": "Commercial Roofing Decisions Around Mount Vernon's Courthouse Square",
-       "href": "/locations/mount-vernon"
+       "href": "/service-areas/mount-vernon"
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "The Highway 65 Retail Roofs Ozark Bids Keep Getting Wrong",
-       "href": "/locations/ozark"
+       "href": "/service-areas/ozark"
       },
       {
        "label": "Standing Seam Bids and the Gauge Number They Don't Print",
@@ -287,23 +287,23 @@
      "related": [
       {
        "label": "Commercial Roofing in Seymour's Ag and Amish-Trade Economy",
-       "href": "/locations/seymour"
+       "href": "/service-areas/seymour"
       },
       {
        "label": "Commercial Roofing in Sparta's Highway 14 Farm Trade Area",
-       "href": "/locations/sparta"
+       "href": "/service-areas/sparta"
       },
       {
        "label": "Strafford's Warehouse Roofs Get Quoted Like They're Not There",
-       "href": "/locations/strafford"
+       "href": "/service-areas/strafford"
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "Willard Is Growing Faster Than Its Roof Inventory",
-       "href": "/locations/willard"
+       "href": "/service-areas/willard"
       },
       {
        "label": "Edge Metal and Coping: The Detail Most Bids Skip Over",
@@ -353,23 +353,23 @@
      "related": [
       {
        "label": "Willard Is Growing Faster Than Its Roof Inventory",
-       "href": "/locations/willard"
+       "href": "/service-areas/willard"
       },
       {
        "label": "Commercial Roofing Near Ash Grove's Historic Lime Kilns",
-       "href": "/locations/ash-grove"
+       "href": "/service-areas/ash-grove"
       },
       {
        "label": "Commercial Roof Work in Aurora's Manufacturing and Grain Corridor",
-       "href": "/locations/aurora"
+       "href": "/service-areas/aurora"
       },
       {
        "label": "Commercial Roofing for a Fast-Growing Corner of Greene County",
-       "href": "/locations/battlefield"
+       "href": "/service-areas/battlefield"
       },
       {
        "label": "Ag and Highway 60 Roofing Work in Billings",
-       "href": "/locations/billings"
+       "href": "/service-areas/billings"
       },
       {
        "label": "PVC Roofing for the Roofs Regular Membrane Can't Handle",
@@ -419,23 +419,23 @@
      "related": [
       {
        "label": "What Roofing Bids in Clever Leave Out",
-       "href": "/locations/clever"
+       "href": "/service-areas/clever"
       },
       {
        "label": "Roofing Scope Gaps on Crane's Commercial Buildings",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "Commercial Roofing on Fair Grove's Highway 65 Ag Corridor",
-       "href": "/locations/fair-grove"
+       "href": "/service-areas/fair-grove"
       },
       {
        "label": "Reading a Roofing Quote for a Building in Fordland",
-       "href": "/locations/fordland"
+       "href": "/service-areas/fordland"
       },
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "Why Roof Drains Cause More Damage Than Almost Any Other Component",
@@ -485,23 +485,23 @@
      "related": [
       {
        "label": "What Roofing Bids in Clever Leave Out",
-       "href": "/locations/clever"
+       "href": "/service-areas/clever"
       },
       {
        "label": "Roofing Scope Gaps on Crane's Commercial Buildings",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "Commercial Roofing on Fair Grove's Highway 65 Ag Corridor",
-       "href": "/locations/fair-grove"
+       "href": "/service-areas/fair-grove"
       },
       {
        "label": "Reading a Roofing Quote for a Building in Fordland",
-       "href": "/locations/fordland"
+       "href": "/service-areas/fordland"
       },
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "What a Real Commercial Roof Inspection Checks Beyond a Walk-Through",
@@ -547,23 +547,23 @@
      "related": [
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "Willard Is Growing Faster Than Its Roof Inventory",
-       "href": "/locations/willard"
+       "href": "/service-areas/willard"
       },
       {
        "label": "Commercial Roofing Near Ash Grove's Historic Lime Kilns",
-       "href": "/locations/ash-grove"
+       "href": "/service-areas/ash-grove"
       },
       {
        "label": "Commercial Roof Work in Aurora's Manufacturing and Grain Corridor",
-       "href": "/locations/aurora"
+       "href": "/service-areas/aurora"
       },
       {
        "label": "Commercial Roofing for a Fast-Growing Corner of Greene County",
-       "href": "/locations/battlefield"
+       "href": "/service-areas/battlefield"
       },
       {
        "label": "Edge Metal and Coping: The Detail Most Bids Skip Over",
@@ -613,23 +613,23 @@
      "related": [
       {
        "label": "Ag and Highway 60 Roofing Work in Billings",
-       "href": "/locations/billings"
+       "href": "/service-areas/billings"
       },
       {
        "label": "Bolivar's Hospital Roof Isn't Priced Like the Square",
-       "href": "/locations/bolivar"
+       "href": "/service-areas/bolivar"
       },
       {
        "label": "Roofing for the Retail Strip Along the Silver Dollar City Approach",
-       "href": "/locations/branson-west"
+       "href": "/service-areas/branson-west"
       },
       {
        "label": "What a Branson Strip Roof Bid Leaves Out",
-       "href": "/locations/branson"
+       "href": "/service-areas/branson"
       },
       {
        "label": "Commercial Roofing on Buffalo's Courthouse Square and Highway Bypass",
-       "href": "/locations/buffalo"
+       "href": "/service-areas/buffalo"
       },
       {
        "label": "The Moisture Survey a Recover Bid Should Never Skip",
@@ -679,23 +679,23 @@
      "related": [
       {
        "label": "The Highway 65 Retail Roofs Ozark Bids Keep Getting Wrong",
-       "href": "/locations/ozark"
+       "href": "/service-areas/ozark"
       },
       {
        "label": "What a Pleasant Hope Roofing Quote Should Include",
-       "href": "/locations/pleasant-hope"
+       "href": "/service-areas/pleasant-hope"
       },
       {
        "label": "Roofing Contracts Along the Highway 13 Corridor Near Reeds Spring",
-       "href": "/locations/reeds-spring"
+       "href": "/service-areas/reeds-spring"
       },
       {
        "label": "What a Republic Warehouse Roof Quote Should Actually Cover",
-       "href": "/locations/republic"
+       "href": "/service-areas/republic"
       },
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "Getting a Damaged Roof Dry Before the Next Round of Weather",
@@ -745,23 +745,23 @@
      "related": [
       {
        "label": "Bolivar's Hospital Roof Isn't Priced Like the Square",
-       "href": "/locations/bolivar"
+       "href": "/service-areas/bolivar"
       },
       {
        "label": "Roofing for the Retail Strip Along the Silver Dollar City Approach",
-       "href": "/locations/branson-west"
+       "href": "/service-areas/branson-west"
       },
       {
        "label": "What a Branson Strip Roof Bid Leaves Out",
-       "href": "/locations/branson"
+       "href": "/service-areas/branson"
       },
       {
        "label": "Commercial Roofing on Buffalo's Courthouse Square and Highway Bypass",
-       "href": "/locations/buffalo"
+       "href": "/service-areas/buffalo"
       },
       {
        "label": "What Roofing Bids in Clever Leave Out",
-       "href": "/locations/clever"
+       "href": "/service-areas/clever"
       },
       {
        "label": "Standing Seam Bids and the Gauge Number They Don't Print",
@@ -811,23 +811,23 @@
      "related": [
       {
        "label": "Monett's Manufacturing Roofs Aren't Retail Roofs",
-       "href": "/locations/monett"
+       "href": "/service-areas/monett"
       },
       {
        "label": "Commercial Roofing Decisions Around Mount Vernon's Courthouse Square",
-       "href": "/locations/mount-vernon"
+       "href": "/service-areas/mount-vernon"
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "The Highway 65 Retail Roofs Ozark Bids Keep Getting Wrong",
-       "href": "/locations/ozark"
+       "href": "/service-areas/ozark"
       },
       {
        "label": "What a Pleasant Hope Roofing Quote Should Include",
-       "href": "/locations/pleasant-hope"
+       "href": "/service-areas/pleasant-hope"
       },
       {
        "label": "Standing Seam Bids and the Gauge Number They Don't Print",
@@ -877,23 +877,23 @@
      "related": [
       {
        "label": "Monett's Manufacturing Roofs Aren't Retail Roofs",
-       "href": "/locations/monett"
+       "href": "/service-areas/monett"
       },
       {
        "label": "Commercial Roofing Decisions Around Mount Vernon's Courthouse Square",
-       "href": "/locations/mount-vernon"
+       "href": "/service-areas/mount-vernon"
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "The Highway 65 Retail Roofs Ozark Bids Keep Getting Wrong",
-       "href": "/locations/ozark"
+       "href": "/service-areas/ozark"
       },
       {
        "label": "What a Pleasant Hope Roofing Quote Should Include",
-       "href": "/locations/pleasant-hope"
+       "href": "/service-areas/pleasant-hope"
       },
       {
        "label": "Acrylic Coating Bids and the Cure-Time Weather Window",
@@ -939,23 +939,23 @@
      "related": [
       {
        "label": "Reading a Roofing Quote for a Building in Fordland",
-       "href": "/locations/fordland"
+       "href": "/service-areas/fordland"
       },
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "Roofing for Hollister's Lakefront Hospitality and Retail Buildings",
-       "href": "/locations/hollister"
+       "href": "/service-areas/hollister"
       },
       {
        "label": "Monett's Manufacturing Roofs Aren't Retail Roofs",
-       "href": "/locations/monett"
+       "href": "/service-areas/monett"
       },
       {
        "label": "Commercial Roofing Decisions Around Mount Vernon's Courthouse Square",
-       "href": "/locations/mount-vernon"
+       "href": "/service-areas/mount-vernon"
       },
       {
        "label": "Edge Metal and Coping: The Detail Most Bids Skip Over",
@@ -1005,23 +1005,23 @@
      "related": [
       {
        "label": "Commercial Roofing in Sparta's Highway 14 Farm Trade Area",
-       "href": "/locations/sparta"
+       "href": "/service-areas/sparta"
       },
       {
        "label": "Strafford's Warehouse Roofs Get Quoted Like They're Not There",
-       "href": "/locations/strafford"
+       "href": "/service-areas/strafford"
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "Willard Is Growing Faster Than Its Roof Inventory",
-       "href": "/locations/willard"
+       "href": "/service-areas/willard"
       },
       {
        "label": "Commercial Roofing Near Ash Grove's Historic Lime Kilns",
-       "href": "/locations/ash-grove"
+       "href": "/service-areas/ash-grove"
       },
       {
        "label": "Full Tear-Off Roof Replacement: What Gets Removed and What Gets Verified",
@@ -1067,23 +1067,23 @@
      "related": [
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "Roofing for Hollister's Lakefront Hospitality and Retail Buildings",
-       "href": "/locations/hollister"
+       "href": "/service-areas/hollister"
       },
       {
        "label": "Marshfield's Two Roof Markets: The Square and the Interchange",
-       "href": "/locations/marshfield"
+       "href": "/service-areas/marshfield"
       },
       {
        "label": "Monett's Manufacturing Roofs Aren't Retail Roofs",
-       "href": "/locations/monett"
+       "href": "/service-areas/monett"
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "Full Tear-Off Roof Replacement: What Gets Removed and What Gets Verified",
@@ -1129,23 +1129,23 @@
      "related": [
       {
        "label": "Willard Is Growing Faster Than Its Roof Inventory",
-       "href": "/locations/willard"
+       "href": "/service-areas/willard"
       },
       {
        "label": "Commercial Roofing Near Ash Grove's Historic Lime Kilns",
-       "href": "/locations/ash-grove"
+       "href": "/service-areas/ash-grove"
       },
       {
        "label": "Commercial Roof Work in Aurora's Manufacturing and Grain Corridor",
-       "href": "/locations/aurora"
+       "href": "/service-areas/aurora"
       },
       {
        "label": "Commercial Roofing for a Fast-Growing Corner of Greene County",
-       "href": "/locations/battlefield"
+       "href": "/service-areas/battlefield"
       },
       {
        "label": "Ag and Highway 60 Roofing Work in Billings",
-       "href": "/locations/billings"
+       "href": "/service-areas/billings"
       },
       {
        "label": "PVC Roofing for the Roofs Regular Membrane Can't Handle",
@@ -1195,23 +1195,23 @@
      "related": [
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "Commercial Roofing in Seymour's Ag and Amish-Trade Economy",
-       "href": "/locations/seymour"
+       "href": "/service-areas/seymour"
       },
       {
        "label": "Commercial Roofing in Sparta's Highway 14 Farm Trade Area",
-       "href": "/locations/sparta"
+       "href": "/service-areas/sparta"
       },
       {
        "label": "Strafford's Warehouse Roofs Get Quoted Like They're Not There",
-       "href": "/locations/strafford"
+       "href": "/service-areas/strafford"
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "TPO Bids That Skip the Mil Thickness Question",
@@ -1261,23 +1261,23 @@
      "related": [
       {
        "label": "What Roofing Bids in Clever Leave Out",
-       "href": "/locations/clever"
+       "href": "/service-areas/clever"
       },
       {
        "label": "Roofing Scope Gaps on Crane's Commercial Buildings",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "Commercial Roofing on Fair Grove's Highway 65 Ag Corridor",
-       "href": "/locations/fair-grove"
+       "href": "/service-areas/fair-grove"
       },
       {
        "label": "Reading a Roofing Quote for a Building in Fordland",
-       "href": "/locations/fordland"
+       "href": "/service-areas/fordland"
       },
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "Repairing Hail and Wind Damage on a Springfield Commercial Roof",
@@ -1327,23 +1327,23 @@
      "related": [
       {
        "label": "Commercial Roofing Near Ash Grove's Historic Lime Kilns",
-       "href": "/locations/ash-grove"
+       "href": "/service-areas/ash-grove"
       },
       {
        "label": "Commercial Roof Work in Aurora's Manufacturing and Grain Corridor",
-       "href": "/locations/aurora"
+       "href": "/service-areas/aurora"
       },
       {
        "label": "Commercial Roofing for a Fast-Growing Corner of Greene County",
-       "href": "/locations/battlefield"
+       "href": "/service-areas/battlefield"
       },
       {
        "label": "Ag and Highway 60 Roofing Work in Billings",
-       "href": "/locations/billings"
+       "href": "/service-areas/billings"
       },
       {
        "label": "Bolivar's Hospital Roof Isn't Priced Like the Square",
-       "href": "/locations/bolivar"
+       "href": "/service-areas/bolivar"
       },
       {
        "label": "Repairing Hail and Wind Damage on a Springfield Commercial Roof",
@@ -1393,23 +1393,23 @@
      "related": [
       {
        "label": "What a Pleasant Hope Roofing Quote Should Include",
-       "href": "/locations/pleasant-hope"
+       "href": "/service-areas/pleasant-hope"
       },
       {
        "label": "Roofing Contracts Along the Highway 13 Corridor Near Reeds Spring",
-       "href": "/locations/reeds-spring"
+       "href": "/service-areas/reeds-spring"
       },
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "Commercial Roofing in Seymour's Ag and Amish-Trade Economy",
-       "href": "/locations/seymour"
+       "href": "/service-areas/seymour"
       },
       {
        "label": "Commercial Roofing in Sparta's Highway 14 Farm Trade Area",
-       "href": "/locations/sparta"
+       "href": "/service-areas/sparta"
       },
       {
        "label": "The Moisture Survey a Recover Bid Should Never Skip",
@@ -1459,23 +1459,23 @@
      "related": [
       {
        "label": "Commercial Roofing in Seymour's Ag and Amish-Trade Economy",
-       "href": "/locations/seymour"
+       "href": "/service-areas/seymour"
       },
       {
        "label": "Commercial Roofing in Sparta's Highway 14 Farm Trade Area",
-       "href": "/locations/sparta"
+       "href": "/service-areas/sparta"
       },
       {
        "label": "Strafford's Warehouse Roofs Get Quoted Like They're Not There",
-       "href": "/locations/strafford"
+       "href": "/service-areas/strafford"
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "Willard Is Growing Faster Than Its Roof Inventory",
-       "href": "/locations/willard"
+       "href": "/service-areas/willard"
       },
       {
        "label": "Acrylic Coating Bids and the Cure-Time Weather Window",
@@ -1521,23 +1521,23 @@
      "related": [
       {
        "label": "Commercial Roofing Decisions Around Mount Vernon's Courthouse Square",
-       "href": "/locations/mount-vernon"
+       "href": "/service-areas/mount-vernon"
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "The Highway 65 Retail Roofs Ozark Bids Keep Getting Wrong",
-       "href": "/locations/ozark"
+       "href": "/service-areas/ozark"
       },
       {
        "label": "What a Pleasant Hope Roofing Quote Should Include",
-       "href": "/locations/pleasant-hope"
+       "href": "/service-areas/pleasant-hope"
       },
       {
        "label": "Roofing Contracts Along the Highway 13 Corridor Near Reeds Spring",
-       "href": "/locations/reeds-spring"
+       "href": "/service-areas/reeds-spring"
       },
       {
        "label": "Full Tear-Off Roof Replacement: What Gets Removed and What Gets Verified",
@@ -1583,23 +1583,23 @@
      "related": [
       {
        "label": "Strafford's Warehouse Roofs Get Quoted Like They're Not There",
-       "href": "/locations/strafford"
+       "href": "/service-areas/strafford"
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "Willard Is Growing Faster Than Its Roof Inventory",
-       "href": "/locations/willard"
+       "href": "/service-areas/willard"
       },
       {
        "label": "Commercial Roofing Near Ash Grove's Historic Lime Kilns",
-       "href": "/locations/ash-grove"
+       "href": "/service-areas/ash-grove"
       },
       {
        "label": "Commercial Roof Work in Aurora's Manufacturing and Grain Corridor",
-       "href": "/locations/aurora"
+       "href": "/service-areas/aurora"
       },
       {
        "label": "EPDM Repair Bids and the Seam Question Nobody Asks",
@@ -1649,23 +1649,23 @@
      "related": [
       {
        "label": "Commercial Roofing for a Fast-Growing Corner of Greene County",
-       "href": "/locations/battlefield"
+       "href": "/service-areas/battlefield"
       },
       {
        "label": "Ag and Highway 60 Roofing Work in Billings",
-       "href": "/locations/billings"
+       "href": "/service-areas/billings"
       },
       {
        "label": "Bolivar's Hospital Roof Isn't Priced Like the Square",
-       "href": "/locations/bolivar"
+       "href": "/service-areas/bolivar"
       },
       {
        "label": "Roofing for the Retail Strip Along the Silver Dollar City Approach",
-       "href": "/locations/branson-west"
+       "href": "/service-areas/branson-west"
       },
       {
        "label": "What a Branson Strip Roof Bid Leaves Out",
-       "href": "/locations/branson"
+       "href": "/service-areas/branson"
       },
       {
        "label": "Repairing Hail and Wind Damage on a Springfield Commercial Roof",
@@ -1715,23 +1715,23 @@
      "related": [
       {
        "label": "Willard Is Growing Faster Than Its Roof Inventory",
-       "href": "/locations/willard"
+       "href": "/service-areas/willard"
       },
       {
        "label": "Commercial Roofing Near Ash Grove's Historic Lime Kilns",
-       "href": "/locations/ash-grove"
+       "href": "/service-areas/ash-grove"
       },
       {
        "label": "Commercial Roof Work in Aurora's Manufacturing and Grain Corridor",
-       "href": "/locations/aurora"
+       "href": "/service-areas/aurora"
       },
       {
        "label": "Commercial Roofing for a Fast-Growing Corner of Greene County",
-       "href": "/locations/battlefield"
+       "href": "/service-areas/battlefield"
       },
       {
        "label": "Ag and Highway 60 Roofing Work in Billings",
-       "href": "/locations/billings"
+       "href": "/service-areas/billings"
       },
       {
        "label": "Repairing Hail and Wind Damage on a Springfield Commercial Roof",
@@ -1781,23 +1781,23 @@
      "related": [
       {
        "label": "Marshfield's Two Roof Markets: The Square and the Interchange",
-       "href": "/locations/marshfield"
+       "href": "/service-areas/marshfield"
       },
       {
        "label": "Monett's Manufacturing Roofs Aren't Retail Roofs",
-       "href": "/locations/monett"
+       "href": "/service-areas/monett"
       },
       {
        "label": "Commercial Roofing Decisions Around Mount Vernon's Courthouse Square",
-       "href": "/locations/mount-vernon"
+       "href": "/service-areas/mount-vernon"
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "The Highway 65 Retail Roofs Ozark Bids Keep Getting Wrong",
-       "href": "/locations/ozark"
+       "href": "/service-areas/ozark"
       },
       {
        "label": "TPO Bids That Skip the Mil Thickness Question",
@@ -1873,7 +1873,7 @@
       },
       {
        "label": "Roofing for the Retail Strip Along the Silver Dollar City Approach",
-       "href": "/locations/branson-west"
+       "href": "/service-areas/branson-west"
       },
       {
        "label": "The School Calendar Is the Real Constraint on a K-12 Roofing Job",
@@ -1935,7 +1935,7 @@
       },
       {
        "label": "Bolivar's Hospital Roof Isn't Priced Like the Square",
-       "href": "/locations/bolivar"
+       "href": "/service-areas/bolivar"
       },
       {
        "label": "The Sales Floor Below Decides What a Big-Box Roof Bid Should Cover",
@@ -1989,7 +1989,7 @@
       },
       {
        "label": "What a Republic Warehouse Roof Quote Should Actually Cover",
-       "href": "/locations/republic"
+       "href": "/service-areas/republic"
       },
       {
        "label": "Medical Office Roofs Don't Get the Scrutiny the Hospital Down the Road Does",
@@ -2047,7 +2047,7 @@
       },
       {
        "label": "Marshfield's Two Roof Markets: The Square and the Interchange",
-       "href": "/locations/marshfield"
+       "href": "/service-areas/marshfield"
       },
       {
        "label": "Refrigeration Is the Real Story on a Grocery Store Roof",
@@ -2109,7 +2109,7 @@
       },
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "What Occupied Hospital Roofing Actually Requires",
@@ -2167,7 +2167,7 @@
       },
       {
        "label": "What a Republic Warehouse Roof Quote Should Actually Cover",
-       "href": "/locations/republic"
+       "href": "/service-areas/republic"
       },
       {
        "label": "A Storage Facility Isn't One Roof, It's Twenty Small Ones",
@@ -2233,7 +2233,7 @@
       },
       {
        "label": "Commercial Roof Work in Aurora's Manufacturing and Grain Corridor",
-       "href": "/locations/aurora"
+       "href": "/service-areas/aurora"
       },
       {
        "label": "Medical Office Roofs Don't Get the Scrutiny the Hospital Down the Road Does",
@@ -2515,7 +2515,7 @@
       },
       {
        "label": "What Roofing Bids in Clever Leave Out",
-       "href": "/locations/clever"
+       "href": "/service-areas/clever"
       },
       {
        "label": "Refrigeration Is the Real Story on a Grocery Store Roof",
@@ -2569,7 +2569,7 @@
       },
       {
        "label": "What a Branson Strip Roof Bid Leaves Out",
-       "href": "/locations/branson"
+       "href": "/service-areas/branson"
       },
       {
        "label": "The Sales Floor Below Decides What a Big-Box Roof Bid Should Cover",
@@ -2627,7 +2627,7 @@
       },
       {
        "label": "What a Republic Warehouse Roof Quote Should Actually Cover",
-       "href": "/locations/republic"
+       "href": "/service-areas/republic"
       },
       {
        "label": "A Storage Facility Isn't One Roof, It's Twenty Small Ones",
@@ -2689,7 +2689,7 @@
       },
       {
        "label": "Commercial Roofing on Fair Grove's Highway 65 Ag Corridor",
-       "href": "/locations/fair-grove"
+       "href": "/service-areas/fair-grove"
       },
       {
        "label": "Medical Office Roofs Don't Get the Scrutiny the Hospital Down the Road Does",
@@ -2751,7 +2751,7 @@
       },
       {
        "label": "The Highway 65 Retail Roofs Ozark Bids Keep Getting Wrong",
-       "href": "/locations/ozark"
+       "href": "/service-areas/ozark"
       },
       {
        "label": "A Storage Facility Isn't One Roof, It's Twenty Small Ones",
@@ -2809,7 +2809,7 @@
       },
       {
        "label": "Monett's Manufacturing Roofs Aren't Retail Roofs",
-       "href": "/locations/monett"
+       "href": "/service-areas/monett"
       },
       {
        "label": "Process Equipment Is What Actually Drives a Manufacturing Roof Bid",
@@ -2867,7 +2867,7 @@
       },
       {
        "label": "Commercial Roofing on Fair Grove's Highway 65 Ag Corridor",
-       "href": "/locations/fair-grove"
+       "href": "/service-areas/fair-grove"
       },
       {
        "label": "Process Equipment Is What Actually Drives a Manufacturing Roof Bid",
@@ -2929,7 +2929,7 @@
       },
       {
        "label": "Strafford's Warehouse Roofs Get Quoted Like They're Not There",
-       "href": "/locations/strafford"
+       "href": "/service-areas/strafford"
       },
       {
        "label": "A Per-Square-Foot Number Doesn't Bid a Distribution Roof",
@@ -2983,7 +2983,7 @@
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "Refrigeration Is the Real Story on a Grocery Store Roof",
@@ -3045,7 +3045,7 @@
       },
       {
        "label": "Roofing for Hollister's Lakefront Hospitality and Retail Buildings",
-       "href": "/locations/hollister"
+       "href": "/service-areas/hollister"
       },
       {
        "label": "Medical Office Roofs Don't Get the Scrutiny the Hospital Down the Road Does",
@@ -3107,7 +3107,7 @@
       },
       {
        "label": "Reading a Roofing Quote for a Building in Fordland",
-       "href": "/locations/fordland"
+       "href": "/service-areas/fordland"
       },
       {
        "label": "A Storage Facility Isn't One Roof, It's Twenty Small Ones",
@@ -3169,7 +3169,7 @@
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "The Sales Floor Below Decides What a Big-Box Roof Bid Should Cover",
@@ -3231,7 +3231,7 @@
       },
       {
        "label": "Commercial Roofing in Seymour's Ag and Amish-Trade Economy",
-       "href": "/locations/seymour"
+       "href": "/service-areas/seymour"
       },
       {
        "label": "A Storage Facility Isn't One Roof, It's Twenty Small Ones",
@@ -3291,7 +3291,7 @@
       },
       {
        "label": "Bolivar's Hospital Roof Isn't Priced Like the Square",
-       "href": "/locations/bolivar"
+       "href": "/service-areas/bolivar"
       },
       {
        "label": "A Per-Square-Foot Number Doesn't Bid a Distribution Roof",
@@ -3357,7 +3357,7 @@
       },
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "The School Calendar Is the Real Constraint on a K-12 Roofing Job",
@@ -3419,7 +3419,7 @@
       },
       {
        "label": "Commercial Roofing in Sparta's Highway 14 Farm Trade Area",
-       "href": "/locations/sparta"
+       "href": "/service-areas/sparta"
       },
       {
        "label": "Process Equipment Is What Actually Drives a Manufacturing Roof Bid",
@@ -3485,7 +3485,7 @@
       },
       {
        "label": "Commercial Roofing in Sparta's Highway 14 Farm Trade Area",
-       "href": "/locations/sparta"
+       "href": "/service-areas/sparta"
       },
       {
        "label": "Process Equipment Is What Actually Drives a Manufacturing Roof Bid",
@@ -3551,7 +3551,7 @@
       },
       {
        "label": "What a Branson Strip Roof Bid Leaves Out",
-       "href": "/locations/branson"
+       "href": "/service-areas/branson"
       },
       {
        "label": "A Per-Square-Foot Number Doesn't Bid a Distribution Roof",
@@ -3613,7 +3613,7 @@
       },
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "A Strip Center Roof Is Really Several Roofs Wearing One Membrane",
@@ -3679,7 +3679,7 @@
       },
       {
        "label": "Commercial Roofing in Sparta's Highway 14 Farm Trade Area",
-       "href": "/locations/sparta"
+       "href": "/service-areas/sparta"
       },
       {
        "label": "The Sales Floor Below Decides What a Big-Box Roof Bid Should Cover",
@@ -3741,7 +3741,7 @@
       },
       {
        "label": "Reading a Roofing Quote for a Building in Fordland",
-       "href": "/locations/fordland"
+       "href": "/service-areas/fordland"
       },
       {
        "label": "Refrigeration Is the Real Story on a Grocery Store Roof",
@@ -3809,7 +3809,7 @@
       },
       {
        "label": "Strafford's Warehouse Roofs Get Quoted Like They're Not There",
-       "href": "/locations/strafford"
+       "href": "/service-areas/strafford"
       },
       {
        "label": "The Sales Floor Below Decides What a Big-Box Roof Bid Should Cover",
@@ -3875,7 +3875,7 @@
       },
       {
        "label": "Commercial Roof Work in Aurora's Manufacturing and Grain Corridor",
-       "href": "/locations/aurora"
+       "href": "/service-areas/aurora"
       },
       {
        "label": "Refrigeration Is the Real Story on a Grocery Store Roof",
@@ -3937,7 +3937,7 @@
       },
       {
        "label": "Commercial Roofing on Fair Grove's Highway 65 Ag Corridor",
-       "href": "/locations/fair-grove"
+       "href": "/service-areas/fair-grove"
       },
       {
        "label": "A Per-Square-Foot Number Doesn't Bid a Distribution Roof",
@@ -3999,7 +3999,7 @@
       },
       {
        "label": "Strafford's Warehouse Roofs Get Quoted Like They're Not There",
-       "href": "/locations/strafford"
+       "href": "/service-areas/strafford"
       },
       {
        "label": "The Warehouse Roof Quote Changes Depending on Who Owns It",
@@ -4061,7 +4061,7 @@
       },
       {
        "label": "Reading a Roofing Quote for a Building in Fordland",
-       "href": "/locations/fordland"
+       "href": "/service-areas/fordland"
       },
       {
        "label": "Medical Office Roofs Don't Get the Scrutiny the Hospital Down the Road Does",
@@ -4127,7 +4127,7 @@
       },
       {
        "label": "What a Republic Warehouse Roof Quote Should Actually Cover",
-       "href": "/locations/republic"
+       "href": "/service-areas/republic"
       },
       {
        "label": "Medical Office Roofs Don't Get the Scrutiny the Hospital Down the Road Does",
@@ -4189,7 +4189,7 @@
       },
       {
        "label": "Commercial Roofing Decisions Around Mount Vernon's Courthouse Square",
-       "href": "/locations/mount-vernon"
+       "href": "/service-areas/mount-vernon"
       },
       {
        "label": "Guests Are the Constraint on a Hotel Reroof, Not the Weather",
@@ -4255,7 +4255,7 @@
       },
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "A Storage Facility Isn't One Roof, It's Twenty Small Ones",
@@ -4327,7 +4327,7 @@
       },
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "Roof Capital Planning for Springfield Office and Retail Portfolios",
@@ -4373,7 +4373,7 @@
       },
       {
        "label": "Reading a Roofing Quote for a Building in Fordland",
-       "href": "/locations/fordland"
+       "href": "/service-areas/fordland"
       },
       {
        "label": "Storm Restoration Roofing Documented for the Insurance Claim Process",
@@ -4419,7 +4419,7 @@
       },
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "Storm Restoration Roofing Documented for the Insurance Claim Process",
@@ -4465,7 +4465,7 @@
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "A Roofing Partner That Matches How Property Managers Actually Budget",
@@ -4511,7 +4511,7 @@
       },
       {
        "label": "Roofing Contracts Along the Highway 13 Corridor Near Reeds Spring",
-       "href": "/locations/reeds-spring"
+       "href": "/service-areas/reeds-spring"
       },
       {
        "label": "A Roofing Partner That Matches How Property Managers Actually Budget",
@@ -4557,7 +4557,7 @@
       },
       {
        "label": "Commercial Roofing on Fair Grove's Highway 65 Ag Corridor",
-       "href": "/locations/fair-grove"
+       "href": "/service-areas/fair-grove"
       },
       {
        "label": "A Roofing Partner That Matches How Property Managers Actually Budget",
@@ -4603,7 +4603,7 @@
       },
       {
        "label": "Roofing for Hollister's Lakefront Hospitality and Retail Buildings",
-       "href": "/locations/hollister"
+       "href": "/service-areas/hollister"
       },
       {
        "label": "Storm Restoration Roofing Documented for the Insurance Claim Process",
@@ -4649,7 +4649,7 @@
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "Roofing for Distribution Centers and Warehouse Operations in the Springfield Corridor",
@@ -4695,7 +4695,7 @@
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "A Roofing Partner That Matches How Property Managers Actually Budget",
@@ -4741,7 +4741,7 @@
       },
       {
        "label": "Roofing Contracts Along the Highway 13 Corridor Near Reeds Spring",
-       "href": "/locations/reeds-spring"
+       "href": "/service-areas/reeds-spring"
       },
       {
        "label": "Roofing for Distribution Centers and Warehouse Operations in the Springfield Corridor",
@@ -4787,7 +4787,7 @@
       },
       {
        "label": "Nixa's Growth Is Outrunning Its Roof Bids",
-       "href": "/locations/nixa"
+       "href": "/service-areas/nixa"
       },
       {
        "label": "Storm Restoration Roofing Documented for the Insurance Claim Process",
@@ -4833,7 +4833,7 @@
       },
       {
        "label": "Rogersville's New Highway Strip Needs Honest Roof Bids",
-       "href": "/locations/rogersville"
+       "href": "/service-areas/rogersville"
       },
       {
        "label": "Roofing for Distribution Centers and Warehouse Operations in the Springfield Corridor",
@@ -4885,7 +4885,7 @@
       },
       {
        "label": "Commercial Roofing on Fair Grove's Highway 65 Ag Corridor",
-       "href": "/locations/fair-grove"
+       "href": "/service-areas/fair-grove"
       },
       {
        "label": "A Per-Square-Foot Number Doesn't Bid a Distribution Roof",
@@ -4931,7 +4931,7 @@
       },
       {
        "label": "What Roofing Bids in Clever Leave Out",
-       "href": "/locations/clever"
+       "href": "/service-areas/clever"
       },
       {
        "label": "Process Equipment Is What Actually Drives a Manufacturing Roof Bid",
@@ -4977,7 +4977,7 @@
       },
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "The Sales Floor Below Decides What a Big-Box Roof Bid Should Cover",
@@ -5023,7 +5023,7 @@
       },
       {
        "label": "Roofing Bids for Walnut Grove's Small Commercial Buildings",
-       "href": "/locations/walnut-grove"
+       "href": "/service-areas/walnut-grove"
       },
       {
        "label": "Process Equipment Is What Actually Drives a Manufacturing Roof Bid",
@@ -5069,7 +5069,7 @@
       },
       {
        "label": "Commercial Roofs in a Bedroom Community South of Springfield",
-       "href": "/locations/highlandville"
+       "href": "/service-areas/highlandville"
       },
       {
        "label": "Refrigeration Is the Real Story on a Grocery Store Roof",
@@ -5115,7 +5115,7 @@
       },
       {
        "label": "Commercial Roofing on Buffalo's Courthouse Square and Highway Bypass",
-       "href": "/locations/buffalo"
+       "href": "/service-areas/buffalo"
       },
       {
        "label": "The School Calendar Is the Real Constraint on a K-12 Roofing Job",

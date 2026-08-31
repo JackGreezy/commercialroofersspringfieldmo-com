@@ -194,7 +194,7 @@ body > header.elementor-location-header .elementor-item:focus-visible {
 }
 
 .rr-sgf-hero-image {
-  background-image: linear-gradient(90deg, rgba(38, 11, 18, .04), rgba(38, 11, 18, .42)), url("/ours/locations/commercial-roofers-springfield-mo-06.webp");
+  background-image: linear-gradient(90deg, rgba(38, 11, 18, .04), rgba(38, 11, 18, .42)), url("/ours/service-areas/commercial-roofers-springfield-mo-06.webp");
   background-position: center;
   background-size: cover;
   min-height: 650px;
@@ -520,7 +520,7 @@ body > header.elementor-location-header .elementor-item:focus-visible {
 }
 
 .rr-sgf-home [data-id="7c3c081c"] [data-id="524fca4d"] {
-  background: url("/ours/locations/commercial-roofers-springfield-mo-04.webp") center / cover no-repeat;
+  background: url("/ours/service-areas/commercial-roofers-springfield-mo-04.webp") center / cover no-repeat;
   min-height: 460px;
 }
 

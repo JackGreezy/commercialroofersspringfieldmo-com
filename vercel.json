@@ -3,6 +3,14 @@
   "trailingSlash": false,
   "rewrites": [
     {
+      "source": "/service-areas",
+      "destination": "/locations.html"
+    },
+    {
+      "source": "/service-areas/:slug",
+      "destination": "/service-areas/:slug.html"
+    },
+    {
       "source": "/about",
       "destination": "/about.html"
     },
@@ -35,14 +43,6 @@
       "destination": "/industries/:slug.html"
     },
     {
-      "source": "/locations",
-      "destination": "/locations.html"
-    },
-    {
-      "source": "/locations/:slug",
-      "destination": "/locations/:slug.html"
-    },
-    {
       "source": "/manufacturers",
       "destination": "/manufacturers.html"
     },
@@ -67,5 +67,307 @@
       "destination": "/roof-systems/:slug.html"
     }
   ],
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ash-grove",
+      "destination": "/service-areas/ash-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ash-grove/",
+      "destination": "/service-areas/ash-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/aurora",
+      "destination": "/service-areas/aurora",
+      "permanent": true
+    },
+    {
+      "source": "/locations/aurora/",
+      "destination": "/service-areas/aurora",
+      "permanent": true
+    },
+    {
+      "source": "/locations/battlefield",
+      "destination": "/service-areas/battlefield",
+      "permanent": true
+    },
+    {
+      "source": "/locations/battlefield/",
+      "destination": "/service-areas/battlefield",
+      "permanent": true
+    },
+    {
+      "source": "/locations/billings",
+      "destination": "/service-areas/billings",
+      "permanent": true
+    },
+    {
+      "source": "/locations/billings/",
+      "destination": "/service-areas/billings",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bolivar",
+      "destination": "/service-areas/bolivar",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bolivar/",
+      "destination": "/service-areas/bolivar",
+      "permanent": true
+    },
+    {
+      "source": "/locations/branson",
+      "destination": "/service-areas/branson",
+      "permanent": true
+    },
+    {
+      "source": "/locations/branson/",
+      "destination": "/service-areas/branson",
+      "permanent": true
+    },
+    {
+      "source": "/locations/branson-west",
+      "destination": "/service-areas/branson-west",
+      "permanent": true
+    },
+    {
+      "source": "/locations/branson-west/",
+      "destination": "/service-areas/branson-west",
+      "permanent": true
+    },
+    {
+      "source": "/locations/buffalo",
+      "destination": "/service-areas/buffalo",
+      "permanent": true
+    },
+    {
+      "source": "/locations/buffalo/",
+      "destination": "/service-areas/buffalo",
+      "permanent": true
+    },
+    {
+      "source": "/locations/clever",
+      "destination": "/service-areas/clever",
+      "permanent": true
+    },
+    {
+      "source": "/locations/clever/",
+      "destination": "/service-areas/clever",
+      "permanent": true
+    },
+    {
+      "source": "/locations/crane",
+      "destination": "/service-areas/crane",
+      "permanent": true
+    },
+    {
+      "source": "/locations/crane/",
+      "destination": "/service-areas/crane",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fair-grove",
+      "destination": "/service-areas/fair-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fair-grove/",
+      "destination": "/service-areas/fair-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fordland",
+      "destination": "/service-areas/fordland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fordland/",
+      "destination": "/service-areas/fordland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/highlandville",
+      "destination": "/service-areas/highlandville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/highlandville/",
+      "destination": "/service-areas/highlandville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hollister",
+      "destination": "/service-areas/hollister",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hollister/",
+      "destination": "/service-areas/hollister",
+      "permanent": true
+    },
+    {
+      "source": "/locations/marshfield",
+      "destination": "/service-areas/marshfield",
+      "permanent": true
+    },
+    {
+      "source": "/locations/marshfield/",
+      "destination": "/service-areas/marshfield",
+      "permanent": true
+    },
+    {
+      "source": "/locations/monett",
+      "destination": "/service-areas/monett",
+      "permanent": true
+    },
+    {
+      "source": "/locations/monett/",
+      "destination": "/service-areas/monett",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mount-vernon",
+      "destination": "/service-areas/mount-vernon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mount-vernon/",
+      "destination": "/service-areas/mount-vernon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/nixa",
+      "destination": "/service-areas/nixa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/nixa/",
+      "destination": "/service-areas/nixa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ozark",
+      "destination": "/service-areas/ozark",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ozark/",
+      "destination": "/service-areas/ozark",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pleasant-hope",
+      "destination": "/service-areas/pleasant-hope",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pleasant-hope/",
+      "destination": "/service-areas/pleasant-hope",
+      "permanent": true
+    },
+    {
+      "source": "/locations/reeds-spring",
+      "destination": "/service-areas/reeds-spring",
+      "permanent": true
+    },
+    {
+      "source": "/locations/reeds-spring/",
+      "destination": "/service-areas/reeds-spring",
+      "permanent": true
+    },
+    {
+      "source": "/locations/republic",
+      "destination": "/service-areas/republic",
+      "permanent": true
+    },
+    {
+      "source": "/locations/republic/",
+      "destination": "/service-areas/republic",
+      "permanent": true
+    },
+    {
+      "source": "/locations/rogersville",
+      "destination": "/service-areas/rogersville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/rogersville/",
+      "destination": "/service-areas/rogersville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/seymour",
+      "destination": "/service-areas/seymour",
+      "permanent": true
+    },
+    {
+      "source": "/locations/seymour/",
+      "destination": "/service-areas/seymour",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sparta",
+      "destination": "/service-areas/sparta",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sparta/",
+      "destination": "/service-areas/sparta",
+      "permanent": true
+    },
+    {
+      "source": "/locations/strafford",
+      "destination": "/service-areas/strafford",
+      "permanent": true
+    },
+    {
+      "source": "/locations/strafford/",
+      "destination": "/service-areas/strafford",
+      "permanent": true
+    },
+    {
+      "source": "/locations/walnut-grove",
+      "destination": "/service-areas/walnut-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/walnut-grove/",
+      "destination": "/service-areas/walnut-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/willard",
+      "destination": "/service-areas/willard",
+      "permanent": true
+    },
+    {
+      "source": "/locations/willard/",
+      "destination": "/service-areas/willard",
+      "permanent": true
+    },
+    {
+      "source": "/locations/:slug",
+      "destination": "/service-areas/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
 }
