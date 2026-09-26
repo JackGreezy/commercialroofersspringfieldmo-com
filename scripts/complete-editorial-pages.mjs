@@ -4,6 +4,7 @@ function update(s,route=''){
  if(typeof s!=='string'||!s.includes('<'))return s;
  const canonical=s.match(/<link\b(?=[^>]*rel=["']canonical["'])[^>]*href=["']([^"']+)/i)?.[1];
  const match=plans.find(p=>route===p.route||(canonical&&new URL(canonical,'https://example.com').pathname.replace(/\/$/,'')===p.route));if(!match)return s;
+ for(const tag of ['div','h2','h3'])s=s.replaceAll(`h1[data-audited-primary-heading=${tag}]{`,`:where(h1[data-audited-primary-heading=${tag}]){`);
  for(const [a,b]of match.replace||[])s=a==='Skiato'?s.replace(/\bSkiato(?:okok)+\b|\bSkiato\b/g,b):s.split(a).join(b);
  if(match.h1)s=s.replace(/(<h1\b[^>]*>)[\s\S]*?(<\/h1>)/i,`$1${match.h1}$2`);
  if(match.promote&&!/<h1\b/i.test(s)){
