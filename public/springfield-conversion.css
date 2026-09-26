@@ -14,6 +14,13 @@ body {
   overflow-x: clip;
 }
 
+/* Page-header breadcrumb ("Home > About Us") is set to a washed-out
+   rgb(189,180,178) at runtime by the Elementor widget config, which
+   measures ~2:1 contrast on the white page background. */
+body .elementor-widget .elementor-icon-list-item .elementor-icon-list-text {
+  color: var(--sgf-ink) !important;
+}
+
 body {
   background: #fff;
   color: var(--sgf-ink);
@@ -603,6 +610,13 @@ footer.elementor-location-footer h2,
 footer.elementor-location-footer h3,
 footer.elementor-location-footer h4 {
   color: #fff !important;
+}
+
+/* The teamworks bar sits on the site's yellow accent, not the dark wine
+   footer background, so its links need the same dark ink as its own
+   heading/tagline text instead of the footer-wide white override. */
+#footer-teamworks-bar a {
+  color: #333 !important;
 }
 
 footer .rr-footer-map {
