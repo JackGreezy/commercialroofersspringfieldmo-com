@@ -4,7 +4,9 @@
 .env*
 qa-out
 **/*.html.ref
-/data
+/data/*
+!/data/fleet-image-delivery.json
+!/data/fleet-runtime-repairs.json
 /industries
 /locations
 /manufacturers
