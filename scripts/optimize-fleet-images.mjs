@@ -41,7 +41,7 @@ export function optimizeFleetImages(html, forceHome=false){
   rules.push(`[data-fleet-mobile-bg="${id}"]{--fleet-mobile-bg:${value}!important}`);if(mayDefer)deferred.push(id);
   tag=set(tag,'style',style.replace(found[2],`var(--fleet-mobile-bg, ${original})!important`));return set(tag,'data-fleet-mobile-bg',id);
  });
- if(deferred.length&&!forceHome){
+ if(deferred.length&&/<\/head>/i.test(html)&&/<\/body>/i.test(html)){
   rules.push(deferred.map(id=>`html.fleet-lazy-bg [data-fleet-mobile-bg="${id}"]:not([data-fleet-bg-ready])`).join(',')+'{--fleet-mobile-bg:none!important}');
   html=html.replace(/<\/head>/i,`<script data-fleet-background-loader>if(matchMedia('(max-width:640px)').matches&&'IntersectionObserver' in window)document.documentElement.classList.add('fleet-lazy-bg')</script></head>`);
   html=html.replace(/<\/body>/i,`<script data-fleet-background-loader>(function(){if(!document.documentElement.classList.contains('fleet-lazy-bg'))return;var observer=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(entry.isIntersecting){entry.target.setAttribute('data-fleet-bg-ready','');observer.unobserve(entry.target)}})},{rootMargin:'250px'});${JSON.stringify([...new Set(deferred)])}.forEach(function(id){document.querySelectorAll('[data-fleet-mobile-bg="'+id+'"]').forEach(function(el){observer.observe(el)})})})()</script></body>`);
