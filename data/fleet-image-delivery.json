@@ -1,0 +1,301 @@
+{
+  "domain": "commercialroofersspringfieldmo.com",
+  "images": {
+    "/images/brand/logo-on-dark.png": {
+      "width": 683,
+      "height": 364,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/a97da4f4ffb42a76.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/9e47c190eb69c319.webp",
+          "width": 683
+        }
+      ],
+      "mobileSize": "109px"
+    },
+    "/ours/service-areas/commercial-roofers-springfield-mo-06.webp": {
+      "width": 1151,
+      "height": 768,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/51b827008cc94023.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/56866fbb909ae365.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/656fa9cb6ebec7a0.webp",
+          "width": 1151
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/51b827008cc94023.webp",
+          "density": 1,
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/51d8f8ae4b25e410.webp",
+          "density": 2,
+          "width": 800
+        },
+        {
+          "src": "/performance/fleet-images/656fa9cb6ebec7a0.webp",
+          "density": 3,
+          "width": 1151
+        }
+      ]
+    },
+    "/ours/service-areas/commercial-roofers-springfield-mo-02.webp": {
+      "width": 1200,
+      "height": 899,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/0c914cf78506397c.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/5ea6425efe2a2446.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/3a9c006bc5ecbbe5.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/ours/project-types/distribution-center-roofing-commercial-roofers-springfield-mo.webp": {
+      "width": 2400,
+      "height": 1350,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/c006cdba9a067543.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/567706e7db9bc0bb.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/36d6377619e7fa6e.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/1dfbdff3d32f1b02.webp",
+          "density": 1,
+          "width": 1120
+        },
+        {
+          "src": "/performance/fleet-images/b9f149f611689399.webp",
+          "density": 2,
+          "width": 2240
+        },
+        {
+          "src": "/performance/fleet-images/0c7ae42fbaef5de8.webp",
+          "density": 3,
+          "width": 2400
+        }
+      ]
+    },
+    "/ours/project-types/warehouse-roofing-commercial-roofers-springfield-mo.webp": {
+      "width": 1920,
+      "height": 1279,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/bf464bd27d2a0007.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/09e6fbec37b8e325.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/878d483ec2530068.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-springfield-mo.webp": {
+      "width": 1200,
+      "height": 881,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/b998962f5b1afb3e.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/10cb72a25d208dc1.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/7f056c5f910273e3.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/ours/project-types/hospital-surgery-center-roofing-commercial-roofers-springfield-mo.webp": {
+      "width": 1556,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/d2f668cddce08f32.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/df215d6cabab9e71.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/45821b3483a22f16.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/medical-office-building-roofing-commercial-roofers-springfield-mo.webp": {
+      "width": 1024,
+      "height": 768,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/b795b89b226e31c7.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/30b2fa06d3db4511.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/38c94a5a548e0983.webp",
+          "width": 1024
+        }
+      ]
+    },
+    "/ours/project-types/higher-education-roofing-commercial-roofers-springfield-mo.webp": {
+      "width": 1920,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/0ae39f8576992a82.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/efc0e559ed817cdd.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/4d85eb27c05ee957.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/industries/healthcare-systems-commercial-roofers-springfield-mo.webp": {
+      "width": 2100,
+      "height": 1082,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/8babe339a98e38a5.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/b4957371f83502cd.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/ebc31198e1332c92.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-inspection-commercial-roofers-springfield-mo.webp": {
+      "width": 1408,
+      "height": 1056,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/922fdccfaf196edf.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/7db0057cd8adddf9.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/4691da2c9c464d4f.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/cff7ed3467eef882.webp",
+          "density": 1,
+          "width": 432
+        },
+        {
+          "src": "/performance/fleet-images/759ef392d6eb180d.webp",
+          "density": 2,
+          "width": 864
+        },
+        {
+          "src": "/performance/fleet-images/cac2e81c189822c4.webp",
+          "density": 3,
+          "width": 1296
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-leak-repair-commercial-roofers-springfield-mo.webp": {
+      "width": 1920,
+      "height": 1440,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/3e76d5e517ac8fed.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/79f85f6f1ba1a140.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/def202fc3eaf64fd.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/c052bca910405e49.webp",
+          "density": 1,
+          "width": 432
+        },
+        {
+          "src": "/performance/fleet-images/29e3f82d007bc739.webp",
+          "density": 2,
+          "width": 864
+        },
+        {
+          "src": "/performance/fleet-images/753b725af1821edf.webp",
+          "density": 3,
+          "width": 1296
+        }
+      ]
+    }
+  },
+  "lazyImages": [
+    "/ours/service-areas/commercial-roofers-springfield-mo-02.webp",
+    "/ours/project-types/distribution-center-roofing-commercial-roofers-springfield-mo.webp",
+    "/ours/project-types/warehouse-roofing-commercial-roofers-springfield-mo.webp",
+    "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-springfield-mo.webp",
+    "/ours/project-types/hospital-surgery-center-roofing-commercial-roofers-springfield-mo.webp",
+    "/ours/project-types/medical-office-building-roofing-commercial-roofers-springfield-mo.webp",
+    "/ours/project-types/higher-education-roofing-commercial-roofers-springfield-mo.webp",
+    "/ours/industries/healthcare-systems-commercial-roofers-springfield-mo.webp"
+  ],
+  "lazyBackgrounds": [
+    "/ours/project-types/distribution-center-roofing-commercial-roofers-springfield-mo.webp",
+    "/ours/services/commercial-roof-inspection-commercial-roofers-springfield-mo.webp",
+    "/ours/services/commercial-roof-leak-repair-commercial-roofers-springfield-mo.webp"
+  ]
+}

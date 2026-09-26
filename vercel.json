@@ -1,5 +1,5 @@
 {
-  "buildCommand": "node scripts/ensure-visible-phone.mjs && node scripts/repair-protected-contact-links.mjs",
+  "buildCommand": "node scripts/ensure-visible-phone.mjs && node scripts/repair-protected-contact-links.mjs && node scripts/build-fleet-delivery.mjs",
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
