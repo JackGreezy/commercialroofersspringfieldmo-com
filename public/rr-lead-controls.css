@@ -59,19 +59,40 @@ html[data-rr-page-kind="slug"] .rr-detail-static-carousel [aria-label*="next" i]
 @media(max-width:900px){html{max-width:100%!important;overflow-x:clip!important}body{max-width:100%!important}[data-rr-desktop-phone]{display:none!important}[data-rr-mobile-phone]{display:flex!important}[data-rr-contact-callout]{align-items:flex-start;flex-direction:column}[data-rr-contact-callout] a{width:100%;box-sizing:border-box}.rr-burger{position:relative!important;inset:auto!important;flex:0 0 auto!important;min-width:48px!important;min-height:48px!important;box-sizing:border-box!important;padding:0!important;overflow:visible!important;transform:none!important}.rr-burger[data-rr-menu-relocated]{position:absolute!important;top:50%!important;right:12px!important;bottom:auto!important;left:auto!important;margin:0!important;z-index:2147482500!important;transform:translateY(-50%)!important}.rr-burger::before,.rr-burger::after,.rr-burger>svg,.rr-burger>i{display:none!important;content:none!important}.rr-burger>span{position:absolute!important;left:50%!important;right:auto!important;bottom:auto!important;display:block!important;width:26px!important;height:2px!important;margin:0!important;padding:0!important;border:0!important;border-radius:2px!important;background:currentColor!important;opacity:1!important;visibility:visible!important;translate:none!important;transform:translate(-50%,-50%)!important}.rr-burger>span:nth-child(1){top:calc(50% - 7px)!important}.rr-burger>span:nth-child(2){top:50%!important}.rr-burger>span:nth-child(3){top:calc(50% + 7px)!important}}
 @media(max-width:640px){html[data-rr-page-kind="slug"] .rr-detail-static-carousel .slick-track,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .swiper-wrapper,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .splide__list,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .glide__slides,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .owl-stage,html[data-rr-page-kind="slug"] .rr-detail-static-carousel [data-rr-track]{grid-template-columns:1fr!important}}
 
-/* Taste fix: header nav overflow between the old tablet burger cutoff (980px) and where the
-   full desktop nav actually fits (~1430px). Below, the "Manufacturers" item and the header CTA
-   ran off the right edge (nav had no shrink/wrap room); at exactly 901-1024px the tablet burger
-   was hidden too, leaving an unstyled floating phone link. Extend the working mobile burger +
-   phone-fab pattern through 1024px, and let the desktop nav wrap to a second right-aligned row
-   between 1025-1430px instead of clipping. */
-@media(max-width:1024px){
-  .rr-burger{display:flex!important}
+/* Taste fix v2: one tidy header row instead of the nav wrapping into an orphaned second row
+   with "Manufacturers" alone, and the phone link floating separately at the bottom-left.
+   The header's two ".e-con-full" panels (logo, nav) were each forced to 100% width by
+   springfield-conversion.css, splitting the row 50/50 regardless of content and letting the
+   nav (or the JS-appended "[data-rr-desktop-phone]" link, which lands as a plain child of the
+   outer <header> since this nav has no literal "/contact" link for it to anchor beside) bleed
+   past its box. Turn the outer <header> into one flex row (logo/chrome left via normal
+   packing, phone or burger pushed right via margin-left:auto) and let both inner panels
+   shrink-to-fit their real content instead of stretching. Above 1000px the full nav now fits
+   on one row by compressing to a 12px/18px floor (it also has to beat the widget's own
+   ".elementor-nav-menu--dropdown-tablet" auto-hide, which used to collapse it at <=1024px);
+   below that, fall back to the burger + phone-fab pattern, grouped together at the right. */
+header.elementor-location-header{display:flex!important;align-items:center!important;gap:18px!important;padding-right:24px!important;box-sizing:border-box!important}
+header.elementor-location-header>*{flex-shrink:0}
+header.elementor-location-header>header{width:auto!important;flex:0 1 auto!important;min-width:0!important}
+.rr-burger{margin-left:auto!important}
+body>header.elementor-location-header>header>.e-con-full,
+body>header.elementor-location-header>header.e-con-full{
+  width:auto!important;max-width:none!important;flex:0 0 auto!important;margin:0!important;padding:12px 0!important;
 }
-@media(min-width:901px) and (max-width:1024px){
-  [data-rr-desktop-phone]{display:none!important}
-  [data-rr-mobile-phone]{display:flex!important}
+@media(min-width:1000px){
+  body>header.elementor-location-header>header:not(#mobile-header){display:flex!important}
+  body>header.elementor-location-header #mobile-header{display:none!important}
+  .rr-burger{display:none!important}
+  [data-rr-desktop-phone]{margin-left:auto!important}
+  .elementor-nav-menu{gap:18px!important}
+  .elementor-nav-menu .elementor-item{font-size:12px!important;padding:13px 8px!important}
+  .elementor-nav-menu--dropdown-tablet .elementor-nav-menu--main{display:flex!important}
 }
-@media(min-width:1025px) and (max-width:1430px){
-  .elementor-location-header .elementor-nav-menu--main .elementor-nav-menu{flex-wrap:wrap!important;justify-content:flex-end!important;row-gap:8px!important}
+@media(min-width:768px) and (max-width:999px){
+  body>header.elementor-location-header>header:not(#mobile-header){display:none!important}
+  body>header.elementor-location-header #mobile-header{display:flex!important}
+  #mobile-header .elementor-widget-lottie{display:none!important}
+  .rr-burger{display:flex!important;position:relative!important;inset:auto!important}
+  [data-rr-desktop-phone]{display:flex!important;margin-left:0!important}
+  [data-rr-mobile-phone]{display:none!important}
 }
