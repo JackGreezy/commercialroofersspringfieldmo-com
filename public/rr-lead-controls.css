@@ -58,3 +58,20 @@ html[data-rr-page-kind="slug"] .rr-detail-static-carousel [aria-label*="next" i]
 @media(min-width:901px){[data-rr-desktop-phone]{display:inline-flex!important}}
 @media(max-width:900px){html{max-width:100%!important;overflow-x:clip!important}body{max-width:100%!important}[data-rr-desktop-phone]{display:none!important}[data-rr-mobile-phone]{display:flex!important}[data-rr-contact-callout]{align-items:flex-start;flex-direction:column}[data-rr-contact-callout] a{width:100%;box-sizing:border-box}.rr-burger{position:relative!important;inset:auto!important;flex:0 0 auto!important;min-width:48px!important;min-height:48px!important;box-sizing:border-box!important;padding:0!important;overflow:visible!important;transform:none!important}.rr-burger[data-rr-menu-relocated]{position:absolute!important;top:50%!important;right:12px!important;bottom:auto!important;left:auto!important;margin:0!important;z-index:2147482500!important;transform:translateY(-50%)!important}.rr-burger::before,.rr-burger::after,.rr-burger>svg,.rr-burger>i{display:none!important;content:none!important}.rr-burger>span{position:absolute!important;left:50%!important;right:auto!important;bottom:auto!important;display:block!important;width:26px!important;height:2px!important;margin:0!important;padding:0!important;border:0!important;border-radius:2px!important;background:currentColor!important;opacity:1!important;visibility:visible!important;translate:none!important;transform:translate(-50%,-50%)!important}.rr-burger>span:nth-child(1){top:calc(50% - 7px)!important}.rr-burger>span:nth-child(2){top:50%!important}.rr-burger>span:nth-child(3){top:calc(50% + 7px)!important}}
 @media(max-width:640px){html[data-rr-page-kind="slug"] .rr-detail-static-carousel .slick-track,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .swiper-wrapper,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .splide__list,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .glide__slides,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .owl-stage,html[data-rr-page-kind="slug"] .rr-detail-static-carousel [data-rr-track]{grid-template-columns:1fr!important}}
+
+/* Taste fix: header nav overflow between the old tablet burger cutoff (980px) and where the
+   full desktop nav actually fits (~1430px). Below, the "Manufacturers" item and the header CTA
+   ran off the right edge (nav had no shrink/wrap room); at exactly 901-1024px the tablet burger
+   was hidden too, leaving an unstyled floating phone link. Extend the working mobile burger +
+   phone-fab pattern through 1024px, and let the desktop nav wrap to a second right-aligned row
+   between 1025-1430px instead of clipping. */
+@media(max-width:1024px){
+  .rr-burger{display:flex!important}
+}
+@media(min-width:901px) and (max-width:1024px){
+  [data-rr-desktop-phone]{display:none!important}
+  [data-rr-mobile-phone]{display:flex!important}
+}
+@media(min-width:1025px) and (max-width:1430px){
+  .elementor-location-header .elementor-nav-menu--main .elementor-nav-menu{flex-wrap:wrap!important;justify-content:flex-end!important;row-gap:8px!important}
+}
