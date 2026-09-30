@@ -1369,3 +1369,134 @@ body :where(
     max-width: none !important;
   }
 }
+
+/* ===== Inner-page layout repairs (legal pages, detail prose, index tile captions, footer) ===== */
+/* Privacy and terms */
+main.site-main > section.rr-legal {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 880px;
+  padding: 150px 28px 90px;
+}
+.rr-legal h1 {
+  color: #9c2236;
+  font-size: clamp(40px, 5vw, 64px);
+  line-height: 1.05;
+  margin: 0 0 18px;
+}
+.rr-legal h2 {
+  color: #9c2236;
+  font-size: clamp(26px, 3vw, 36px);
+  line-height: 1.1;
+  margin: 38px 0 10px;
+}
+.rr-legal p {
+  color: #3d4248;
+  font-size: 18px;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+/* Detail pages: readable, left-aligned body copy */
+[data-rr-prose="detail"] p,
+[data-rr-prose="detail"] li {
+  hyphens: none;
+  text-align: left !important;
+}
+[data-rr-prose="detail"] h3 {
+  color: #1e4b6d;
+  font-size: clamp(20px, 2vw, 26px);
+  line-height: 1.25;
+  margin: 26px 0 8px;
+  text-align: left;
+}
+[data-rr-prose="detail"] h1,
+[data-rr-prose="detail"] h2 {
+  overflow-wrap: break-word;
+  text-align: left !important;
+}
+/* Project gallery: one large frame instead of eighteen stacked repeats */
+html body .elementor-widget-media-carousel .elementor-thumbnails-swiper {
+  display: none !important;
+}
+html body .elementor-widget-media-carousel .elementor-main-swiper:not(.elementor-thumbnails-swiper) .swiper-wrapper > div {
+  height: min(620px, 62vw) !important;
+}
+html body .elementor-widget-media-carousel .elementor-main-swiper:not(.elementor-thumbnails-swiper) {
+  height: min(620px, 62vw) !important;
+}
+/* Index tiles: show the caption that the gallery plugin only reveals on hover */
+.mgi_overlays .mgom_title {
+  color: #fff !important;
+  font-size: 20px !important;
+  line-height: 1.2 !important;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+}
+.mg_box .mgi_overlays {
+  background: linear-gradient(to top, rgba(10, 18, 28, 0.82) 0%, rgba(10, 18, 28, 0) 55%);
+}
+.mg_box .mgom_txt_wrap {
+  align-items: flex-end;
+  padding: 16px;
+}
+/* Footer: drop the empty video frame, give the two call-out cards a dark panel, tidy the planning bar */
+footer #sgbuilds-animation {
+  display: none !important;
+}
+footer #footer-two-photos {
+  background: transparent !important;
+  margin-top: 28px;
+}
+footer #footer-two-photos > div:not(.elementor-hidden-mobile) {
+  align-items: flex-start !important;
+  background-color: #1d3450 !important;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  justify-content: flex-start !important;
+  padding: 30px 32px !important;
+}
+footer #footer-two-photos .elementor-hidden-mobile {
+  display: none !important;
+}
+footer #footer-two-photos > div > div {
+  align-items: flex-start !important;
+  margin: 0 !important;
+  width: 100% !important;
+}
+footer #footer-two-photos .elementor-widget {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-align: left !important;
+  width: auto !important;
+}
+footer #footer-two-photos .elementor-button {
+  display: inline-block;
+}
+footer #footer-two-photos .elementor-heading-title,
+footer #footer-two-photos .elementor-widget-text-editor {
+  color: #fff !important;
+  text-align: left !important;
+}
+footer #footer-teamworks-bar {
+  margin-top: 0;
+}
+footer #footer-teamworks-bar nav {
+  flex-wrap: wrap;
+  gap: 4px 6px;
+  justify-content: center;
+}
+footer #footer-teamworks-bar nav a {
+  color: #1c1c1c;
+}
+.rr-footer-map {
+  margin-bottom: 40px;
+}
+@media (max-width: 767px) {
+  main.site-main > section.rr-legal { padding: 120px 20px 70px; }
+  footer #footer-two-photos { margin-left: 16px; margin-right: 16px; width: auto; }
+}
+/* Mobile header: the unused animated-menu placeholder shows as a gray square next to the logo */
+#mobile-header #hamburger-menu { display: none !important; }
+/* Page hero titles sit on busy photos: add a soft shadow so they stay readable */
+h1.elementor-heading-title {
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.75), 0 0 2px rgba(0, 0, 0, 0.5);
+}
+/* ===== end inner-page layout repairs ===== */
