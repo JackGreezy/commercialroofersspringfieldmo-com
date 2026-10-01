@@ -7,6 +7,7 @@ qa-out
 /data/*
 !/data/fleet-image-delivery.json
 !/data/fleet-runtime-repairs.json
+!/data/seo-final-pass.json
 /industries
 /locations
 /manufacturers

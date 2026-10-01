@@ -238,10 +238,39 @@ def upsert_meta(soup: BeautifulSoup, attr: str, key: str, content: str):
     tag["content"] = content
     soup.head.append(tag)
 
+_DANGLING = re.compile(r"(?:and|or|with|the|of|to|for|in|a|an|by|from|at|on|as|that|into|than|but|its|their|our|your|per|plus|near|around|across|along|through|between|over|under|which|while|when|where|so)$", re.I)
+
+def fit_description(desc: str, limit: int = 160) -> str:
+    """Return a complete sentence or clause of at most `limit` characters (never a word-count cut)."""
+    desc = re.sub(r"\s+", " ", desc).strip()
+    if len(desc) <= limit:
+        desc = desc.rstrip(" ,;:")
+        return desc if desc[-1:] in ".!?" else desc + "."
+    window = desc[: limit + 1]
+    ends = [m.end() for m in re.finditer(r"[.!?](?=\s)", window) if m.end() >= 100]
+    if ends:
+        return desc[: ends[-1]].strip()
+    best = None
+    for m in re.finditer(r"(, |; | \u2014 | \u2013 |: )", desc[:limit]):
+        cut = desc[: m.start()].rstrip(" ,;:\u2014\u2013")
+        last = re.search(r"([\w'-]+)$", cut)
+        if len(cut) + 1 >= 100 and last and not _DANGLING.fullmatch(last.group(1)):
+            best = cut
+    if best:
+        return best + "."
+    cut = desc[:limit].rsplit(" ", 1)[0].rstrip(" ,;:\u2014\u2013")
+    while True:
+        last = re.search(r"([\w'-]+)$", cut)
+        if last and _DANGLING.fullmatch(last.group(1)):
+            cut = cut[: last.start()].rstrip(" ,;:\u2014\u2013")
+        else:
+            break
+    return cut + "."
+
 def set_metadata(soup: BeautifulSoup, route: str):
     soup = ensure_head(soup)
     title, desc = meta_for(route, soup)
-    desc = re.sub(r"\s+", " ", desc).strip()[:158].rstrip(" ,.;")
+    desc = fit_description(desc)
     if soup.title:
         soup.title.string = title
     else:
