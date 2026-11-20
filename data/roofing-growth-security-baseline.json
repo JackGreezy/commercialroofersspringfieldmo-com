@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "domain": "commercialroofersspringfieldmo.com",
+  "productionDeployment": "dpl_BySSdhmB6yV2RogiSPEgsUXMMTc3",
+  "handlerFile": "api/submit.js",
+  "handlerNormalizedSha256": "e407c41b7554d08b181b534e0c767400e6c4cc0ca1c47121d8468a5a43a41e0b",
+  "dependenciesSha256": "e124745ae55cbca2810a1a15bda63fb27cb25dd09c4ef7c41efd5e2e8e201cfd",
+  "securityFiles": [
+    {
+      "path": "api/turnstile-config.js",
+      "sha256": "024de2d7059f7875be4e37054c4353211c9d435ed3b327da6f4b78ffb3624828"
+    },
+    {
+      "path": "lib/turnstile.js",
+      "sha256": "1ab882e836a99a711532ca94b0c036593989123baa575a882e41fee6e2743eb8"
+    },
+    {
+      "path": "public/rr-lead-controls.css",
+      "sha256": "5f5ddf6b5827a5d74ed183d0f6822febd2aaa1446868092715106eea7e8d0024"
+    },
+    {
+      "path": "public/rr-lead-controls.js",
+      "sha256": "b65e2326d4cd953a2eae3b065d860f504fe4464eadfb1a132296f91230f9e004"
+    },
+    {
+      "path": "public/turnstile-contact.js",
+      "sha256": "833f8bfa3a9a48a58c8dd7a7500aabe0e313d5c6d8af0941b08f530d340f59bb"
+    },
+    {
+      "path": "scripts/finalize-lead-controls.mjs",
+      "sha256": "a99b7650de93adc3d18e2a1800ccdc49d737bce585bf95272c90518e862eb56b"
+    },
+    {
+      "path": "scripts/inject-turnstile.mjs",
+      "sha256": "7945498848d63475676c736833daeb01b2fbcf170d1a8bffe08712d9ecc7d0b0"
+    }
+  ]
+}

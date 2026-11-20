@@ -140,7 +140,7 @@
         }
       ]
     },
-    "/ours/project-types/hospital-surgery-center-roofing-commercial-roofers-springfield-mo.webp": {
+    "/ours/project-types/hospital-surgery-center-roofing-commercial-roofers-springfield-mo-v3.webp": {
       "width": 1556,
       "height": 1200,
       "variants": [
@@ -176,7 +176,7 @@
         }
       ]
     },
-    "/ours/project-types/higher-education-roofing-commercial-roofers-springfield-mo.webp": {
+    "/ours/project-types/higher-education-roofing-commercial-roofers-springfield-mo-v2.webp": {
       "width": 1920,
       "height": 1080,
       "variants": [
@@ -194,7 +194,7 @@
         }
       ]
     },
-    "/ours/industries/healthcare-systems-commercial-roofers-springfield-mo.webp": {
+    "/ours/industries/healthcare-systems-commercial-roofers-springfield-mo-v2.webp": {
       "width": 2100,
       "height": 1082,
       "variants": [
@@ -288,10 +288,10 @@
     "/ours/project-types/distribution-center-roofing-commercial-roofers-springfield-mo.webp",
     "/ours/project-types/warehouse-roofing-commercial-roofers-springfield-mo.webp",
     "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-springfield-mo.webp",
-    "/ours/project-types/hospital-surgery-center-roofing-commercial-roofers-springfield-mo.webp",
+    "/ours/project-types/hospital-surgery-center-roofing-commercial-roofers-springfield-mo-v3.webp",
     "/ours/project-types/medical-office-building-roofing-commercial-roofers-springfield-mo.webp",
-    "/ours/project-types/higher-education-roofing-commercial-roofers-springfield-mo.webp",
-    "/ours/industries/healthcare-systems-commercial-roofers-springfield-mo.webp"
+    "/ours/project-types/higher-education-roofing-commercial-roofers-springfield-mo-v2.webp",
+    "/ours/industries/healthcare-systems-commercial-roofers-springfield-mo-v2.webp"
   ],
   "lazyBackgrounds": [
     "/ours/project-types/distribution-center-roofing-commercial-roofers-springfield-mo.webp",

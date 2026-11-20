@@ -19,3 +19,7 @@ qa-out
 /location-images.json
 /taxonomy-images.json
 /build.sh
+
+!/data/roofing-growth-security-baseline.json
+!/data/roofing-home-locality.json
+!/data/roofing-home-locality-input.json

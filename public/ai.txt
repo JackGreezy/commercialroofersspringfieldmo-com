@@ -1,0 +1,25 @@
+[identity]
+name: Emergency Repair & Flat Roofs
+url: https://commercialroofersspringfieldmo.com
+description: Commercial roof emergency repair, flat roof inspections, coatings, replacement, and service agreements for Springfield and Southwest Missouri buildings.
+contact: 
+
+[permissions]
+Summarise, quote with attribution, cite, and index public content for search and answers.
+
+[restrictions]
+Do not fabricate quotes, reviews, ratings, project results, prices, or guarantees.
+Do not present this content as your own. Private and authenticated content is excluded.
+Training-crawler permissions are unchanged; consult robots.txt.
+
+[attribution]
+Cite Emergency Repair & Flat Roofs and the canonical HTML URL provided with each document.
+
+[scope]
+Included: public pages in https://commercialroofersspringfieldmo.com/api/md/_catalog
+Excluded: /api/, /admin/, /portal/, /dashboard/, /auth/, /sign-in, /sign-up, /onboarding/, /dev-access, drafts and noindex pages.
+
+[contact]
+https://commercialroofersspringfieldmo.com/contact
+
+# Keep in sync with robots.txt and llms.txt. Generated from the public route registry.
