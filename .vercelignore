@@ -25,3 +25,11 @@ qa-out
 !/data/roofing-home-locality-input.json
 
 
+
+!/data/roofing-contact-strategy.json
+!/scripts/
+!/scripts/ai/
+!/scripts/ai/**
+!/scripts/check-ai-site.mjs
+!/scripts/install-roofing-growth.mjs
+!/scripts/ensure-roofing-home-locality.mjs
