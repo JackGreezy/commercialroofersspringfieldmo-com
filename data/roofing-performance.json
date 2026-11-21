@@ -1,0 +1,74 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofersspringfieldmo.com",
+  "images": {
+    "/images/brand/logo-on-dark.png": "/performance/roofing-v1/6e7b2144df823b499a82f7e1.webp",
+    "/ours/manufacturers/carlisle-syntec-commercial-roofers-springfield-mo.webp": "/performance/roofing-v1/ab447bf94718adf04500f5e6.webp",
+    "/ours/manufacturers/gaf-commercial-commercial-roofers-springfield-mo.webp": "/performance/roofing-v1/abbf38ff349dde2828f596e1.webp",
+    "/ours/service-areas/commercial-roofers-springfield-mo-05.webp": "/performance/roofing-v1/07f25fdf2f2bd877d35dad76.webp",
+    "/ours/services/roof-recover-overlay-commercial-roofers-springfield-mo.webp": "/performance/roofing-v1/093ac998d6016f5c3de1a492.webp",
+    "/ours/services/silicone-roof-coatings-commercial-roofers-springfield-mo.webp": "/performance/roofing-v1/ce6d659b6d7ae3a2b0c963a7.webp",
+    "/ours/services/tpo-single-ply-roofing-commercial-roofers-springfield-mo.webp": "/performance/roofing-v1/3a200cf1d6436b2097765845.webp"
+  },
+  "assets": [
+    {
+      "from": "/images/brand/logo-on-dark.png",
+      "to": "/performance/roofing-v1/6e7b2144df823b499a82f7e1.webp",
+      "width": 683,
+      "height": 364,
+      "beforeBytes": 249157,
+      "afterBytes": 179238
+    },
+    {
+      "from": "/ours/manufacturers/carlisle-syntec-commercial-roofers-springfield-mo.webp",
+      "to": "/performance/roofing-v1/ab447bf94718adf04500f5e6.webp",
+      "width": 2400,
+      "height": 1600,
+      "beforeBytes": 188474,
+      "afterBytes": 145056
+    },
+    {
+      "from": "/ours/manufacturers/gaf-commercial-commercial-roofers-springfield-mo.webp",
+      "to": "/performance/roofing-v1/abbf38ff349dde2828f596e1.webp",
+      "width": 2400,
+      "height": 1315,
+      "beforeBytes": 167468,
+      "afterBytes": 132874
+    },
+    {
+      "from": "/ours/service-areas/commercial-roofers-springfield-mo-05.webp",
+      "to": "/performance/roofing-v1/07f25fdf2f2bd877d35dad76.webp",
+      "width": 2400,
+      "height": 1530,
+      "beforeBytes": 294558,
+      "afterBytes": 230004
+    },
+    {
+      "from": "/ours/services/roof-recover-overlay-commercial-roofers-springfield-mo.webp",
+      "to": "/performance/roofing-v1/093ac998d6016f5c3de1a492.webp",
+      "width": 2400,
+      "height": 1503,
+      "beforeBytes": 302866,
+      "afterBytes": 230796
+    },
+    {
+      "from": "/ours/services/silicone-roof-coatings-commercial-roofers-springfield-mo.webp",
+      "to": "/performance/roofing-v1/ce6d659b6d7ae3a2b0c963a7.webp",
+      "width": 1200,
+      "height": 798,
+      "beforeBytes": 80844,
+      "afterBytes": 56292
+    },
+    {
+      "from": "/ours/services/tpo-single-ply-roofing-commercial-roofers-springfield-mo.webp",
+      "to": "/performance/roofing-v1/3a200cf1d6436b2097765845.webp",
+      "width": 2000,
+      "height": 1328,
+      "beforeBytes": 158486,
+      "afterBytes": 115072
+    }
+  ],
+  "createdAt": "2026-11-21T02:44:17.188Z",
+  "fonts": [],
+  "fontFailures": []
+}
